@@ -12,3 +12,7 @@
 ### Auto-formater
 
 0. [black](https://black.readthedocs.io/en/stable/)
+
+##  Documentation
+
+0. [numpy style](https://numpydoc.readthedocs.io/en/latest/format.html)
