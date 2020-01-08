@@ -7,3 +7,9 @@
 [submodule "web/personal"]
 	path = web/personal
 	url = git@github.com:glandfried/glandfried.github.io.git
+[submodule "membership/licar/licar"]
+	path = membership/licar/licar
+	url = git@gitlab.licar.exp.dc.uba.ar:licar/licar.git
+[submodule "git/gitaction"]
+	path = git/gitaction
+	url = git@github.com:glandfried/gitaction.git
