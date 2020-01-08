@@ -13,3 +13,6 @@
 [submodule "git/gitaction"]
 	path = git/gitaction
 	url = git@github.com:glandfried/gitaction.git
+[submodule "dataset/go-dataset"]
+	path = dataset/go-dataset
+	url = git@github.com:glandfried/go-dataset.git
