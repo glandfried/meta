@@ -11,7 +11,7 @@
 	path = membership/licar/licar
 	url = git@gitlab.licar.exp.dc.uba.ar:licar/licar.git
 [submodule "git/gitaction"]
-	path = git/gitaction
+	path = aux/git
 	url = git@github.com:glandfried/gitaction.git
 [submodule "dataset/go-dataset"]
 	path = dataset/go-dataset
@@ -19,3 +19,72 @@
 [submodule "teach/course/taller-algebra1"]
 	path = teach/course/taller-algebra1
 	url = git@git.exactas.uba.ar:materias/taller-algebra1.git
+[submodule "software/trueskill.py"]
+	path = software/trueskill.py
+	url = git@github.com:glandfried/trueskill.py.git
+[submodule "research/truesynergy"]
+	path = research/truesynergy
+	url = git@github.com:glandfried/truesynergy.git
+[submodule "research/cultural-centrality"]
+	path = research/cultural-centrality
+	url = git@github.com:glandfried/cultural-centrality.git
+[submodule "research/bayesianIRT"]
+	path = research/bayesianIRT
+	url = git@github.com:glandfried/bayesianIRT.git
+[submodule "research/truehandicap"]
+	path = research/truehandicap
+	url = git@github.com:glandfried/truehandicap.git
+[submodule "teach/course/exactasPrograma"]
+	path = teach/course/exactasPrograma
+	url = git@git.exactas.uba.ar:materias/exactasPrograma.git
+[submodule "teach/course/algoritmos1"]
+	path = teach/course/algoritmos1
+	url = git@git.exactas.uba.ar:materias/algo1.git
+[submodule "web/licar"]
+	path = web/licar
+	url = git@gitlab.licar.exp.dc.uba.ar:licar/webpage.git
+[submodule "expo/tacc2019"]
+	path = expo/tacc2019
+	url = git@github.com:glandfried/tacc2019.git
+[submodule "software/TrueSkill.jl"]
+	path = software/TrueSkill.jl
+	url = git@github.com:glandfried/TrueSkill.jl.git
+[submodule "learn/julia-performance"]
+	path = learn/julia-performance
+	url = git@github.com:glandfried/julia-performance.git
+[submodule "teach/bayes/seminario-exactas"]
+	path = teach/bayes/seminario-exactas
+	url = git@git.exactas.uba.ar:bayes/seminario.git
+[submodule "teach/thesis/patricioromanik"]
+	path = teach/thesis/patricioromanik
+	url = git@gitlab.com:antropocaos/patricioromanik.git
+[submodule "teach/thesis/agustinFernandez"]
+	path = teach/thesis/agustinFernandez
+	url = git@gitlab.com:antropocaos/agustinFernandez.git
+[submodule "learn/esrl-2019"]
+	path = learn/esrl-2019
+	url = https://github.com/glandfried/resources-2019
+[submodule "membership/caos/antropocaos"]
+	path = membership/caos/antropocaos
+	url = git@gitlab.com:antropocaos/antropocaos.git
+[submodule "membership/argonautas"]
+	path = membership/caos/argonautas/
+	url = git@gitlab.com:argonautasdelcaos/argonautasdelcaos.git
+[submodule "membership/patria/mueve-bot"]
+	path = membership/patria/mueve-bot
+	url = git@gitlab.e-va.red:haciendopatria/convencer-bot.git
+[submodule "learn/machineLearning/AA_TP1"]
+	path = learn/machineLearning/tp1
+	url = https://github.com/spinto88/AA_TP1.git
+[submodule "learn/machineLearning/tp2"]
+	path = learn/machineLearning/tp2
+	url = https://github.com/spinto88/ML_TP2.git
+[submodule "bureaucracy/documents"]
+	path = bureaucracy/documents
+	url = git@gitlab.com:glandfried/documents.git
+[submodule "software/alerta-dengue-bot"]
+	path = software/alerta-dengue-bot
+	url = git@gitlab.e-va.red:met-comunitarias/alerta-dengue-bot.git
+[submodule "membership/caos/argonautas"]
+	path = membership/caos/argonautas
+	url = git@gitlab.com:argonautasdelcaos/argonautasdelcaos.git
