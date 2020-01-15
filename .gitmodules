@@ -88,3 +88,12 @@
 [submodule "membership/caos/argonautas"]
 	path = membership/caos/argonautas
 	url = git@gitlab.com:argonautasdelcaos/argonautasdelcaos.git
+[submodule "aux/linux"]
+	path = aux/linux
+	url = git@github.com:glandfried/linux.git
+[submodule "teach/thesis/gjcairo"]
+	path = teach/thesis/gjcairo
+	url = git@gitlab.licar.exp.dc.uba.ar:gaming/go.git
+[submodule "fork/online-go.com"]
+	path = fork/online-go.com
+	url = git@github.com:glandfried/online-go.com.git
