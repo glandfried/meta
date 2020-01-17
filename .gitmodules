@@ -106,3 +106,6 @@
 [submodule "dataset/moves-ogs-dataset"]
 	path = dataset/moves-ogs-dataset
 	url = git@github.com:glandfried/moves-ogs-dataset.git
+[submodule "dataset/output-ogs-dataset"]
+	path = dataset/output-ogs-dataset
+	url = git@github.com:glandfried/output-ogs-dataset.git
