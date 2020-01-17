@@ -103,3 +103,6 @@
 [submodule "teach/bayes/bayesian-inference"]
 	path = teach/bayes/bayesian-inference
 	url = git@github.com:glandfried/bayesian-inference.git
+[submodule "image/images"]
+	path = image/images
+	url = git@github.com:glandfried/images.git
