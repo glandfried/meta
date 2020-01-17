@@ -5,7 +5,7 @@
 	path = aux/biblio
 	url = git@github.com:glandfried/biblio.git
 [submodule "web/personal"]
-	path = web/personal
+	path = web/glandfried.github.io
 	url = git@github.com:glandfried/glandfried.github.io.git
 [submodule "membership/licar/licar"]
 	path = membership/licar/licar
@@ -22,18 +22,12 @@
 [submodule "software/trueskill.py"]
 	path = software/trueskill.py
 	url = git@github.com:glandfried/trueskill.py.git
-[submodule "research/truesynergy"]
-	path = research/truesynergy
-	url = git@github.com:glandfried/truesynergy.git
 [submodule "research/cultural-centrality"]
 	path = research/cultural-centrality
 	url = git@github.com:glandfried/cultural-centrality.git
 [submodule "research/bayesianIRT"]
 	path = research/bayesianIRT
 	url = git@github.com:glandfried/bayesianIRT.git
-[submodule "research/truehandicap"]
-	path = research/truehandicap
-	url = git@github.com:glandfried/truehandicap.git
 [submodule "teach/course/exactasPrograma"]
 	path = teach/course/exactasPrograma
 	url = git@git.exactas.uba.ar:materias/exactasPrograma.git
@@ -97,3 +91,12 @@
 [submodule "fork/online-go.com"]
 	path = fork/online-go.com
 	url = git@github.com:glandfried/online-go.com.git
+[submodule "web/web"]
+	path = web/personal
+	url = git@gitlab.com:glandfried/web.git
+[submodule "research/stones"]
+	path = research/stones
+	url = git@github.com:glandfried/stones.git
+[submodule "research/synergy"]
+	path = research/synergy
+	url = git@github.com:glandfried/synergy.git
