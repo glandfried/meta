@@ -13,9 +13,6 @@
 [submodule "git/gitaction"]
 	path = aux/git
 	url = git@github.com:glandfried/gitaction.git
-[submodule "dataset/go-dataset"]
-	path = dataset/go-dataset
-	url = git@github.com:glandfried/go-dataset.git
 [submodule "teach/course/taller-algebra1"]
 	path = teach/course/taller-algebra1
 	url = git@git.exactas.uba.ar:materias/taller-algebra1.git
