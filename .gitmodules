@@ -112,3 +112,6 @@
 [submodule "learn/straw/ergodicity"]
 	path = learn/topic/ergodicity
 	url = git@github.com:glandfried/ergodicity.git
+[submodule "dataset/go/moves-ogs-dataset"]
+	path = dataset/go/moves-ogs-dataset
+	url = git@github.com:glandfried/moves-ogs-dataset.git
