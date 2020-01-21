@@ -110,5 +110,5 @@
 	path = dataset/go/output-ogs-dataset
 	url = git@github.com:glandfried/output-ogs-dataset.git
 [submodule "learn/straw/ergodicity"]
-	path = learn/papers/ergodicity
+	path = learn/topic/ergodicity
 	url = git@github.com:glandfried/ergodicity.git
