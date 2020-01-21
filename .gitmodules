@@ -41,19 +41,19 @@
 	path = software/TrueSkill.jl
 	url = git@github.com:glandfried/TrueSkill.jl.git
 [submodule "learn/julia-performance"]
-	path = learn/julia-performance
+	path = learn/workshop/julia-performance
 	url = git@github.com:glandfried/julia-performance.git
 [submodule "teach/bayes/seminario-exactas"]
 	path = teach/bayes/seminario-exactas
 	url = git@git.exactas.uba.ar:bayes/seminario.git
 [submodule "teach/thesis/patricioromanik"]
-	path = teach/thesis/patricioromanik
+	path = teach/tutor/patricioromanik
 	url = git@gitlab.com:antropocaos/patricioromanik.git
 [submodule "teach/thesis/agustinFernandez"]
-	path = teach/thesis/agustinFernandez
+	path = teach/tutor/agustinFernandez
 	url = git@gitlab.com:antropocaos/agustinFernandez.git
 [submodule "learn/esrl-2019"]
-	path = learn/esrl-2019
+	path = learn/workshop/esrl-2019
 	url = https://github.com/glandfried/resources-2019
 [submodule "membership/caos/antropocaos"]
 	path = membership/caos/antropocaos
@@ -65,10 +65,10 @@
 	path = membership/patria/mueve-bot
 	url = git@gitlab.e-va.red:haciendopatria/convencer-bot.git
 [submodule "learn/machineLearning/AA_TP1"]
-	path = learn/machineLearning/tp1
+	path = learn/course/machineLearning/tp1
 	url = https://github.com/spinto88/AA_TP1.git
 [submodule "learn/machineLearning/tp2"]
-	path = learn/machineLearning/tp2
+	path = learn/course/machineLearning/tp2
 	url = https://github.com/spinto88/ML_TP2.git
 [submodule "bureaucracy/documents"]
 	path = bureaucracy/documents
@@ -83,7 +83,7 @@
 	path = aux/linux
 	url = git@github.com:glandfried/linux.git
 [submodule "teach/thesis/gjcairo"]
-	path = teach/thesis/gjcairo
+	path = teach/tutor/gjcairo
 	url = git@gitlab.licar.exp.dc.uba.ar:gaming/go.git
 [submodule "fork/online-go.com"]
 	path = fork/online-go.com
