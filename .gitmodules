@@ -118,3 +118,6 @@
 [submodule "aux/license"]
 	path = aux/license
 	url = git@github.com:glandfried/license.git
+[submodule "bureaucracy/applications"]
+	path = bureaucracy/applications
+	url = git@github.com:glandfried/applications.git
