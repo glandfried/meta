@@ -115,3 +115,6 @@
 [submodule "dataset/go/moves-ogs-dataset"]
 	path = dataset/go/moves-ogs-dataset
 	url = git@github.com:glandfried/moves-ogs-dataset.git
+[submodule "aux/license"]
+	path = aux/license
+	url = git@github.com:glandfried/license.git
