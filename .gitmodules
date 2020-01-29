@@ -121,3 +121,6 @@
 [submodule "bureaucracy/applications"]
 	path = bureaucracy/applications
 	url = git@github.com:glandfried/applications.git
+[submodule "software/tennis"]
+	path = software/tennis
+	url = git@github.com:glandfried/tennis.git
