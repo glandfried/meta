@@ -4,7 +4,7 @@ This repository aims to organize all my academic work. It contains essentially o
 
 **I am in the process of making public the repositories in which I am, and I was, working during the doctorate**. There is still a lot of work to be updated. Be patient, please.
 
-![workInProgress](./visual/images/enconstruccion.jpg)
+![workInProgress](https://github.com/glandfried/images/blob/master/enconstruccion.jpg)
 
 
 
