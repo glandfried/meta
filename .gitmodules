@@ -124,3 +124,6 @@
 [submodule "software/tennis"]
 	path = software/tennis
 	url = git@github.com:glandfried/tennis.git
+[submodule "expo/liaa2018"]
+	path = expo/liaa2018
+	url = git@github.com:glandfried/liaa2018.git
