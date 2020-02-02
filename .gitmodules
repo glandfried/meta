@@ -127,3 +127,9 @@
 [submodule "expo/liaa2018"]
 	path = expo/liaa2018
 	url = git@github.com:glandfried/liaa2018.git
+[submodule "aux/tex"]
+	path = aux/tex
+	url = git@github.com:glandfried/tex.git
+[submodule "expo/mlss2018"]
+	path = expo/mlss2018
+	url = git@github.com:glandfried/mlss2018.git
