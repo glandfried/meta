@@ -133,3 +133,6 @@
 [submodule "expo/mlss2018"]
 	path = expo/mlss2018
 	url = git@github.com:glandfried/mlss2018.git
+[submodule "expo/esrl2019"]
+	path = expo/esrl2019
+	url = git@github.com:glandfried/esrl2019.git
