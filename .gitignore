@@ -1,6 +1,6 @@
 *  # Ignora todo
 !*/ # Salvo las carpetas
-*/pdf
+*download/
 
 ########################
 # Archivos que NO ignora
@@ -10,6 +10,8 @@
 *-concordance.tex
 !*.bib
 !*.bst
+!*.sty
+!*.cls
 
 ## Codigo
 !*.py
