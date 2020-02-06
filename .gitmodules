@@ -118,9 +118,6 @@
 [submodule "aux/license"]
 	path = aux/license
 	url = git@github.com:glandfried/license.git
-[submodule "bureaucracy/applications"]
-	path = bureaucracy/applications
-	url = git@github.com:glandfried/applications.git
 [submodule "software/tennis"]
 	path = software/tennis
 	url = git@github.com:glandfried/tennis.git
@@ -136,3 +133,6 @@
 [submodule "expo/esrl2019"]
 	path = expo/esrl2019
 	url = git@github.com:glandfried/esrl2019.git
+[submodule "bureaucracy/applications/lml2020-app"]
+	path = bureaucracy/applications/lml2020-app
+	url = git@github.com:glandfried/lml2020-app.git
