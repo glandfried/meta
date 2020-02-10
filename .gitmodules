@@ -136,3 +136,6 @@
 [submodule "bureaucracy/applications/lml2020-app"]
 	path = bureaucracy/applications/lml2020-app
 	url = git@github.com:glandfried/lml2020-app.git
+[submodule "learn/topic/haaland2020-generalistsVsSpecialist"]
+	path = learn/topic/haaland2020-generalistsVsSpecialist
+	url = https://github.com/glandfried/haaland2020-generalistsVsSpecialist
