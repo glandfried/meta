@@ -13,6 +13,18 @@ Index
 - **GO**:
 The GO module is about games of go hosted at [https://online-go.com](https://online-go.com)
 
+Modules must provide a detailed README following [IEEE recomendations](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/prepare-supplementary-materials/creating-a-readme-file-for-datasets/).
+
+- Description:
+- Size:
+- Platform
+- Environment
+- Major component description
+- Detailed setup instructions
+- Detailed run instructions
+- Output description
+- Contact
+
 ## 2. Scientific data
 
 The primary content-type, the *Data Descriptor*, combines traditional narrative content with curated, structured descriptions (metadata) of data to provide a new framework for data sharing and reuse. These principles are designed to align with and support the [FAIR Principles](https://www.nature.com/articles/sdata201618) for scientific data management and stewardship, which declare that research data should be **Findable**, **Accessible**, **Interoperable** and **Reusable**.
