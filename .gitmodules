@@ -4,9 +4,6 @@
 [submodule "aux/biblio"]
 	path = aux/biblio
 	url = git@github.com:glandfried/biblio.git
-[submodule "web/personal"]
-	path = web/glandfried.github.io
-	url = git@github.com:glandfried/glandfried.github.io.git
 [submodule "membership/licar/licar"]
 	path = membership/licar/licar
 	url = git@gitlab.licar.exp.dc.uba.ar:licar/licar.git
@@ -88,9 +85,6 @@
 [submodule "fork/online-go.com"]
 	path = fork/online-go.com
 	url = git@github.com:glandfried/online-go.com.git
-[submodule "web/web"]
-	path = web/personal
-	url = git@gitlab.com:glandfried/web.git
 [submodule "research/stones"]
 	path = research/stones
 	url = git@github.com:glandfried/stones.git
@@ -139,3 +133,9 @@
 [submodule "learn/topic/haaland2020-generalistsVsSpecialist"]
 	path = learn/topic/haaland2020-generalistsVsSpecialist
 	url = https://github.com/glandfried/haaland2020-generalistsVsSpecialist
+[submodule "web/own"]
+	path = web/own
+	url = git@gitlab.com:glandfried/web.git
+[submodule "web/github.io"]
+	path = web/github.io
+	url = git@github.com:glandfried/glandfried.github.io.git
