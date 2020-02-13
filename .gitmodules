@@ -136,3 +136,6 @@
 [submodule "web/github.io"]
 	path = web/github.io
 	url = git@github.com:glandfried/glandfried.github.io.git
+[submodule "teach/tutor/gustavocairo"]
+	path = teach/tutor/gustavocairo
+	url = git@gitlab.licar.exp.dc.uba.ar:gaming/go.git
