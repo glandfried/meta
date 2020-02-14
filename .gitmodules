@@ -139,3 +139,6 @@
 [submodule "teach/tutor/gustavocairo"]
 	path = teach/tutor/gustavocairo
 	url = git@gitlab.licar.exp.dc.uba.ar:gaming/go.git
+[submodule "membership/licar/gaming/handicap"]
+	path = membership/licar/gaming/handicap
+	url = git@gitlab.licar.exp.dc.uba.ar:gaming/handicap.git
