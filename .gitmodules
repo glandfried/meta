@@ -142,3 +142,9 @@
 [submodule "membership/licar/gaming/handicap"]
 	path = membership/licar/gaming/handicap
 	url = git@gitlab.licar.exp.dc.uba.ar:gaming/handicap.git
+[submodule "software/bayesian-linear-regression"]
+	path = software/bayesian-linear-regression
+	url = git@github.com:glandfried/bayesian-linear-regression.git
+[submodule "software/analytic-bayesian-linear-regression"]
+	path = software/analytic-bayesian-linear-regression
+	url = git@github.com:glandfried/analytic-bayesian-linear-regression.git
