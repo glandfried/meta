@@ -148,3 +148,9 @@
 [submodule "software/analytic-bayesian-linear-regression"]
 	path = software/analytic-bayesian-linear-regression
 	url = git@github.com:glandfried/analytic-bayesian-linear-regression.git
+[submodule "learn/topic/prospect-theory"]
+	path = learn/topic/prospect-theory
+	url = git@github.com:glandfried/prospect-theory.git
+[submodule "membership/licar/gaming/gaming"]
+	path = membership/licar/gaming/gaming
+	url = git@gitlab.licar.exp.dc.uba.ar:gaming/gaming.git
