@@ -5,6 +5,9 @@
 ########################
 # Archivos que NO ignora
 
+!LICENSE
+!license
+
 ## Latex
 !*.tex
 *-concordance.tex
