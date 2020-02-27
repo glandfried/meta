@@ -154,3 +154,6 @@
 [submodule "membership/licar/gaming/gaming"]
 	path = membership/licar/gaming/gaming
 	url = git@gitlab.licar.exp.dc.uba.ar:gaming/gaming.git
+[submodule "learn/topic/inequality"]
+	path = learn/topic/inequality
+	url = git@github.com:glandfried/inequality.git
