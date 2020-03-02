@@ -157,3 +157,12 @@
 [submodule "learn/topic/inequality"]
 	path = learn/topic/inequality
 	url = git@github.com:glandfried/inequality.git
+[submodule "membership/patria/comunidades/alerta-dengue-bot"]
+	path = membership/patria/comunidades/alerta-dengue-bot
+	url = git@gitlab.e-va.red:met-comunitarias/alerta-dengue-bot.git
+[submodule "membership/patria/comunidades/aedes-aegypti"]
+	path = membership/patria/comunidades/aedes-aegypti
+	url = git@github.com:glandfried/aedes-aegypti.git
+[submodule "expo/caas2020"]
+	path = expo/caas2020
+	url = git@github.com:glandfried/caas2020.git
