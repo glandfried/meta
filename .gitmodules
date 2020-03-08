@@ -166,3 +166,6 @@
 [submodule "expo/caas2020"]
 	path = expo/caas2020
 	url = git@github.com:glandfried/caas2020.git
+[submodule "learn/topic/probability_weighting"]
+	path = learn/topic/probability_weighting
+	url = git@github.com:glandfried/probability_weighting.git
