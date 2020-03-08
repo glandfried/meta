@@ -148,3 +148,21 @@
 [submodule "software/analytic-bayesian-linear-regression"]
 	path = software/analytic-bayesian-linear-regression
 	url = git@github.com:glandfried/analytic-bayesian-linear-regression.git
+[submodule "learn/topic/prospect-theory"]
+	path = learn/topic/prospect-theory
+	url = git@github.com:glandfried/prospect-theory.git
+[submodule "membership/licar/gaming/gaming"]
+	path = membership/licar/gaming/gaming
+	url = git@gitlab.licar.exp.dc.uba.ar:gaming/gaming.git
+[submodule "learn/topic/inequality"]
+	path = learn/topic/inequality
+	url = git@github.com:glandfried/inequality.git
+[submodule "membership/patria/comunidades/alerta-dengue-bot"]
+	path = membership/patria/comunidades/alerta-dengue-bot
+	url = git@gitlab.e-va.red:met-comunitarias/alerta-dengue-bot.git
+[submodule "membership/patria/comunidades/aedes-aegypti"]
+	path = membership/patria/comunidades/aedes-aegypti
+	url = git@github.com:glandfried/aedes-aegypti.git
+[submodule "expo/caas2020"]
+	path = expo/caas2020
+	url = git@github.com:glandfried/caas2020.git

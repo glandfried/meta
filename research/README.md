@@ -2,8 +2,13 @@
 
 ## Open peer-review:
 
-0. [Peer Comumunity In](https://ecology.peercommunityin.org/), 
+0. [Peer Community In](https://ecology.peercommunityin.org/), 
 0. [Researchers One](https://www.researchers.one/faqs)
+
+### Peer Community In
+
+[How to become a recommneder](https://peercommunityin.org/how-and-why-becoming-a-recommender-for-a-pci/)
+
 
 ## Journals
 
