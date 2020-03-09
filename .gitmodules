@@ -169,3 +169,6 @@
 [submodule "learn/topic/probability_weighting"]
 	path = learn/topic/probability_weighting
 	url = git@github.com:glandfried/probability_weighting.git
+[submodule "aux/preregistrations"]
+	path = aux/preregistrations
+	url = git@github.com:glandfried/preregistrations.git
