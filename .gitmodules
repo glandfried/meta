@@ -22,9 +22,9 @@
 [submodule "research/bayesianIRT"]
 	path = research/bayesianIRT
 	url = git@github.com:glandfried/bayesianIRT.git
-[submodule "teach/course/exactasPrograma"]
-	path = teach/course/exactasPrograma
-	url = git@git.exactas.uba.ar:materias/exactasPrograma.git
+#[submodule "teach/course/exactasPrograma"]
+#	path = teach/course/exactasPrograma
+#	url = git@git.exactas.uba.ar:materias/exactasPrograma.git
 [submodule "teach/course/algoritmos1"]
 	path = teach/course/algoritmos1
 	url = git@git.exactas.uba.ar:materias/algo1.git
