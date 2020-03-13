@@ -1,5 +1,7 @@
 # go-dataset
 
+KGS: https://u-go.net/gamerecords/
+
 The database is about the public GO games at [https://online-go.com](https://online-go.com)
 
 This database is divided into two repository, one for each source of information:
