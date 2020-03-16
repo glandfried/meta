@@ -175,3 +175,6 @@
 [submodule "bureaucracy/applications/2020_microsoft"]
 	path = bureaucracy/applications/2020_microsoft
 	url = git@gitlab.licar.exp.dc.uba.ar:gaming/2020_microsoft.git
+[submodule "fork/ChessAnalysis"]
+	path = fork/ChessAnalysis
+	url = git@github.com:lucasmaystre/ChessAnalysis.git
