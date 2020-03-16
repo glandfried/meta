@@ -172,3 +172,6 @@
 [submodule "aux/preregistrations"]
 	path = aux/preregistrations
 	url = git@github.com:glandfried/preregistrations.git
+[submodule "bureaucracy/applications/2020_microsoft"]
+	path = bureaucracy/applications/2020_microsoft
+	url = git@gitlab.licar.exp.dc.uba.ar:gaming/2020_microsoft.git

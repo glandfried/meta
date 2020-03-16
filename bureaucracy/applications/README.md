@@ -1,5 +1,4 @@
 Agenda:
-- Microsoft Research Latin America PhD Award submission period closes on April 15, 2020 at 5:00 PM PST [link](https://www.microsoft.com/en-us/research/academic-program/latin-america-phd-grant/). [otro link](https://www.microsoft.com/en-us/research/academic-programs/students/?facet%5Btax%5D%5Bmsr-program-audience%5D%5B0%5D=243724)
 
 #
 
