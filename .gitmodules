@@ -178,3 +178,6 @@
 [submodule "fork/ChessAnalysis"]
 	path = fork/ChessAnalysis
 	url = git@github.com:lucasmaystre/ChessAnalysis.git
+[submodule "research/true-irt"]
+	path = research/true-irt
+	url = git@gitlab.licar.exp.dc.uba.ar:gaming/true-irt.git
