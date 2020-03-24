@@ -181,3 +181,6 @@
 [submodule "research/true-irt"]
 	path = research/true-irt
 	url = git@gitlab.licar.exp.dc.uba.ar:gaming/true-irt.git
+[submodule "software/hospitales-bot"]
+	path = software/hospitales-bot
+	url = git@gitlab.com:glandfried/hospitales-bot.git
