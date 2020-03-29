@@ -184,3 +184,6 @@
 [submodule "software/hospitales-bot"]
 	path = software/hospitales-bot
 	url = git@gitlab.com:glandfried/hospitales-bot.git
+[submodule "software/non-ergodic"]
+	path = software/non-ergodic
+	url = git@github.com:glandfried/non-ergodic.git
