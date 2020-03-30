@@ -1,6 +1,5 @@
 *  # Ignora todo
 !*/ # Salvo las carpetas
-*download/
 
 ########################
 # Archivos que NO ignora
@@ -31,11 +30,3 @@
 !Makefile
 !.keep
 !.gitignore
-
-#########################
-# Carpetas que SI ignora
-
-#########################
-# Nombre de archivo o carpeta que SIEMPRE ignora
-
-*-ignore* 

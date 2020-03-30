@@ -187,3 +187,6 @@
 [submodule "software/non-ergodic"]
 	path = software/non-ergodic
 	url = git@github.com:glandfried/non-ergodic.git
+[submodule "membership/licar/gaming/trueskill"]
+	path = membership/licar/gaming/trueskill
+	url = git@gitlab.licar.exp.dc.uba.ar:gaming/trueskill.git
