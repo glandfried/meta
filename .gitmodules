@@ -190,3 +190,6 @@
 [submodule "membership/licar/gaming/trueskill"]
 	path = membership/licar/gaming/trueskill
 	url = git@gitlab.licar.exp.dc.uba.ar:gaming/trueskill.git
+[submodule "fork/covid19model"]
+	path = fork/covid19model
+	url = git@github.com:glandfried/covid19model.git
