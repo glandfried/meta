@@ -90,7 +90,7 @@
 	url = git@github.com:glandfried/synergy.git
 [submodule "teach/bayes/bayesian-inference"]
 	path = teach/bayes/bayesian-inference
-	url = git@github.com:glandfried/bayesian-inference.git
+	url = git@github.com:bayesbuenosaires/seminario.git
 [submodule "image/images"]
 	path = visual/images
 	url = git@github.com:glandfried/images.git
