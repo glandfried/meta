@@ -193,3 +193,6 @@
 [submodule "fork/covid19model"]
 	path = fork/covid19model
 	url = git@github.com:glandfried/covid19model.git
+[submodule "post/non-ergodic-evidence"]
+	path = post/non-ergodic-evidence
+	url = git@github.com:glandfried/non-ergodic-evidence.git
