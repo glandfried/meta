@@ -82,9 +82,6 @@
 [submodule "fork/online-go.com"]
 	path = fork/online-go.com
 	url = git@github.com:glandfried/online-go.com.git
-[submodule "research/stones"]
-	path = research/stones
-	url = git@github.com:glandfried/stones.git
 [submodule "research/synergy"]
 	path = research/synergy
 	url = git@github.com:glandfried/synergy.git
@@ -140,7 +137,7 @@
 	path = teach/tutor/gustavocairo
 	url = git@gitlab.licar.exp.dc.uba.ar:gaming/go.git
 [submodule "membership/licar/gaming/handicap"]
-	path = membership/licar/gaming/handicap
+	path = research/handicap
 	url = git@gitlab.licar.exp.dc.uba.ar:gaming/handicap.git
 [submodule "software/bayesian-linear-regression"]
 	path = software/bayesian-linear-regression
