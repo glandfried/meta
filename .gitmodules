@@ -193,3 +193,6 @@
 [submodule "post/non-ergodic-evidence"]
 	path = post/non-ergodic-evidence
 	url = git@github.com:glandfried/non-ergodic-evidence.git
+[submodule "learn/course/tomaDeDecisiones"]
+	path = learn/course/tomaDeDecisiones
+	url = git@github.com:glandfried/tomaDeDecisiones.git
