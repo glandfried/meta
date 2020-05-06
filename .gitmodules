@@ -196,3 +196,6 @@
 [submodule "learn/course/tomaDeDecisiones"]
 	path = learn/course/tomaDeDecisiones
 	url = git@github.com:glandfried/tomaDeDecisiones.git
+[submodule "learn/topic/covid"]
+	path = learn/topic/covid
+	url = git@github.com:gefero/unsam_covid_espacial.git
