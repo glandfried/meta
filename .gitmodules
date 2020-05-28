@@ -199,3 +199,9 @@
 [submodule "learn/topic/covid"]
 	path = learn/topic/covid
 	url = git@github.com:gefero/unsam_covid_espacial.git
+[submodule "dataset/go/aago"]
+	path = dataset/go/aago
+	url = git@github.com:glandfried/aago.git
+[submodule "bureaucracy/applications/cic"]
+	path = bureaucracy/applications/cic
+	url = git@github.com:glandfried/cic.git
