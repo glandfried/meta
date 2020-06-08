@@ -205,3 +205,6 @@
 [submodule "bureaucracy/applications/cic"]
 	path = bureaucracy/applications/cic
 	url = git@github.com:glandfried/cic.git
+[submodule "dataset/teg"]
+	path = dataset/teg
+	url = git@github.com:glandfried/teg.git
