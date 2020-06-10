@@ -208,3 +208,6 @@
 [submodule "dataset/teg"]
 	path = dataset/teg
 	url = git@github.com:glandfried/teg.git
+[submodule "dataset/go/centrality-ogs-dataset"]
+	path = dataset/go/centrality-ogs-dataset
+	url = git@github.com:glandfried/centrality-ogs-dataset.git
