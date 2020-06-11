@@ -211,3 +211,6 @@
 [submodule "dataset/go/centrality-ogs-dataset"]
 	path = dataset/go/centrality-ogs-dataset
 	url = git@github.com:glandfried/centrality-ogs-dataset.git
+[submodule "research/evidence"]
+	path = research/evidence
+	url = git@github.com:glandfried/evidence.git
