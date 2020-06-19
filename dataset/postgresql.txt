@@ -1,0 +1,73 @@
+ps -ef | grep postgres # los procesos que estan corriendo
+sudo /etc/init.d/postgresql restart # reiniciar el servidor
+
+Usuarios: select * from pg_user;
+
+sudo -u postgres psql 
+CREATE ROLE myuser LOGIN password 'secret';
+ALTER USER myuser WITH CREATEDB, CREATEROLE, CREATEUSER, SUPERUSER;
+CREATE DATABASE convenbot OWNER convbot;
+
+psql dbname < infile;
+
+* pg_lsclusters
+Running pg_lsclusters will list all the postgres clusters running on your device
+
+* sudo pg_ctlcluster 9.6 main start
+(pg_ctlcluster <version> <cluster> <action>)
+Restart the pg_ctlcluster
+
+* sudo systemctl start postgresql.service
+
+Para cambiar el puerto
+/etc/postgresql/<version>/main/postresql.conf 
+
+/var/run/postgresql
+   10-main.pid   .s.PGSQL.5432       .s.PGSQL.5433
+..  9.5-main.pid  .s.PGSQL.5432.lock  .s.PGSQL.5433.loc
+
+
+
+psql -h mininet.exp -U user -d db -f .sql 
+
+psql -h mininet.exp -U user -d db -f a.sql -A -F "," -o a.csv --pset footer
+
+for i in {0..10}; do psql -v var=$i -h mininet.exp -U user -d database -f prueba.sql; done
+
+for i in {1..500}; do psql -v var=$i  -h mininet.exp -U user -d database -f i.sql -A -F "," -o "csv/$i.csv" --pset footer; done
+
+for f in $(ls -1 | sed -e 's/\..*$//'); do psql -h mininet.exp -U user -d database -f $f.sql -A -F "," -o "csv/$f.csv" --pset footer; done
+
+ls | while read fname; do psql -h mininet.exp -U user -d database -f ${fname%%.*}.sql -A -F "," -o "$csv/{fname%%.*}.csv" --pset footer; done
+
+for i in 2007-{01..12}-{01,15}; do psql -v var="'$i'" -h mininet.exp -U user -d database -f prueba.sql; done
+
+for i in 2007-{01..12}-{01,15}; do psql -v var="'$i'" -h mininet.exp -U user -d database -f prueba.sql; done
+for i in 2007-{01..12}-{01,15}; do psql -v var="'$i'" -h mininet.exp -U user -d database -f a.sql -A -F "," -o "csv/$i.csv" --pset footer; done
+
+for (( i=1; i<=5; i++ )); do  for ((j=0;j<=5;j++)); do
+psql -v var_dif=$i -v var_sigma=$j -h mininet.exp -U user -d database -f prueba.sql
+; done;done
+
+LANG=en_US; for i in $(seq 0 0.5 5); do  for j in $(seq 3.0 0.5 5); do psql -v var_dif=$i -v var_sigma=$j -h mininet.exp -U user -d database -f prueba.sql -A -F "," -o "dif_${i}_sigma_${j}.csv" --pset footer ; done;done
+
+-- locks
+
+select pid 
+from pg_locks l 
+join pg_class t on l.relation = t.oid 
+where t.relkind = 'r'
+--and t.relname = 'search_hit';
+
+select pid, state, usename, query, query_start 
+from pg_stat_activity 
+where pid in (
+  select pid from pg_locks l 
+  join pg_class t on l.relation = t.oid 
+  and t.relkind = 'r' 
+--  where t.relname = 'search_hit'
+);
+
+
+SELECT pg_cancel_backend(11929)
+SELECT pg_terminate_backend(11929);
