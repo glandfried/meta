@@ -121,9 +121,6 @@
 [submodule "expo/esrl2019"]
 	path = expo/esrl2019
 	url = git@github.com:glandfried/esrl2019.git
-[submodule "bureaucracy/applications/lml2020-app"]
-	path = bureaucracy/applications/lml2020-app
-	url = git@github.com:glandfried/lml2020-app.git
 [submodule "learn/topic/haaland2020-generalistsVsSpecialist"]
 	path = learn/topic/haaland2020-generalistsVsSpecialist
 	url = https://github.com/glandfried/haaland2020-generalistsVsSpecialist
@@ -169,9 +166,6 @@
 [submodule "aux/preregistrations"]
 	path = aux/preregistrations
 	url = git@github.com:glandfried/preregistrations.git
-[submodule "bureaucracy/applications/2020_microsoft"]
-	path = bureaucracy/applications/2020_microsoft
-	url = git@gitlab.licar.exp.dc.uba.ar:gaming/2020_microsoft.git
 [submodule "fork/ChessAnalysis"]
 	path = fork/ChessAnalysis
 	url = git@github.com:lucasmaystre/ChessAnalysis.git
@@ -203,7 +197,7 @@
 	path = dataset/go/aago
 	url = git@github.com:glandfried/aago.git
 [submodule "bureaucracy/applications/cic"]
-	path = bureaucracy/applications/cic
+	path = bureaucracy/cic
 	url = git@github.com:glandfried/cic.git
 [submodule "dataset/teg"]
 	path = dataset/teg
@@ -214,3 +208,15 @@
 [submodule "research/evidence"]
 	path = research/evidence
 	url = git@github.com:glandfried/evidence.git
+[submodule "software/variational-logisitic-regression"]
+	path = software/variational-logisitic-regression
+	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/variational-logisitic-regression.git
+[submodule "expo/liaa2020"]
+	path = expo/liaa2020
+	url = git@github.com:glandfried/liaa2020.git
+[submodule "fork/ergodicity-breaking"]
+	path = fork/ergodicity-breaking
+	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/ergodicity-breaking-choice-experiment.git
+[submodule "bureaucracy/application"]
+	path = bureaucracy/application
+	url = git@github.com:glandfried/application.git
