@@ -220,3 +220,6 @@
 [submodule "bureaucracy/application"]
 	path = bureaucracy/application
 	url = git@github.com:glandfried/application.git
+[submodule "learn/course/tp-tdd"]
+	path = learn/course/tp-tdd
+	url = git@github.com:glandfried/tp-tdd.git
