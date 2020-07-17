@@ -47,7 +47,7 @@
 	path = teach/tutor/patricioromanik
 	url = git@gitlab.com:antropocaos/patricioromanik.git
 [submodule "teach/thesis/agustinFernandez"]
-	path = teach/tutor/agustinFernandez
+	path = teach/tutor/agustinfernandez/tesis
 	url = git@gitlab.com:antropocaos/agustinFernandez.git
 [submodule "learn/esrl-2019"]
 	path = learn/workshop/esrl-2019
@@ -223,3 +223,9 @@
 [submodule "learn/topic/ergodicity-breaking-replication"]
 	path = learn/topic/ergodicity-breaking-replication
 	url = git@github.com:glandfried/ergodicity-breaking-replication.git
+[submodule "teach/bayes/gelman"]
+	path = teach/bayes/gelman
+	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/BDA_ejercicios.git
+[submodule "teach/tutor/agustinfernandez/Exactasprogram"]
+	path = teach/tutor/agustinfernandez/Exactasprogram
+	url = git@github.com:agustinfernandez/Exactasprogram.git
