@@ -229,3 +229,6 @@
 [submodule "teach/tutor/agustinfernandez/Exactasprogram"]
 	path = teach/tutor/agustinfernandez/Exactasprogram
 	url = git@github.com:agustinfernandez/Exactasprogram.git
+[submodule "fork/bayesian-linear-model"]
+	path = fork/bayesian-linear-model
+	url = git@github.com:glandfried/bayesian-linear-model.git
