@@ -232,3 +232,6 @@
 [submodule "fork/bayesian-linear-model"]
 	path = fork/bayesian-linear-model
 	url = git@github.com:glandfried/bayesian-linear-model.git
+[submodule "expo/liaa2019"]
+	path = expo/liaa2019
+	url = git@github.com:glandfried/liaa2019.git
