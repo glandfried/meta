@@ -235,3 +235,6 @@
 [submodule "expo/liaa2019"]
 	path = expo/liaa2019
 	url = git@github.com:glandfried/liaa2019.git
+[submodule "software/TrueSkill.R"]
+	path = software/TrueSkill.R
+	url = git@github.com:glandfried/TrueSkill.R.git
