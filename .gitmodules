@@ -238,3 +238,6 @@
 [submodule "software/TrueSkill.R"]
 	path = software/TrueSkill.R
 	url = git@github.com:glandfried/TrueSkill.R.git
+[submodule "bureaucracy/agenda"]
+	path = bureaucracy/agenda
+	url = git@github.com:glandfried/agenda.git
