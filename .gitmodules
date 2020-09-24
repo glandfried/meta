@@ -241,3 +241,9 @@
 [submodule "bureaucracy/agenda"]
 	path = bureaucracy/agenda
 	url = git@github.com:glandfried/agenda.git
+[submodule "post/HBEC-vacancy"]
+	path = post/HBEC-vacancy
+	url = git@github.com:glandfried/HBEC-vacancy.git
+[submodule "expo/hbec2020"]
+	path = expo/hbec2020
+	url = git@github.com:glandfried/hbec2020.git
