@@ -72,7 +72,7 @@
 	url = git@gitlab.com:glandfried/documents.git
 [submodule "software/alerta-dengue-bot"]
 	path = software/alerta-dengue-bot
-	url = git@gitlab.e-va.red:met-comunitarias/alerta-dengue-bot.git
+	url = git@github.com:glandfried/alerta-dengue-bot.git 
 [submodule "membership/caos/argonautas"]
 	path = membership/caos/argonautas
 	url = git@gitlab.com:argonautasdelcaos/argonautasdelcaos.git
@@ -247,3 +247,6 @@
 [submodule "expo/hbec2020"]
 	path = expo/hbec2020
 	url = git@github.com:glandfried/hbec2020.git
+[submodule "software/cross-cultural-bot"]
+	path = software/cross-cultural-bot
+	url = git@github.com:glandfried/cross-cultural-bot.git
