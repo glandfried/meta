@@ -262,3 +262,9 @@
 [submodule "research/polycentric"]
 	path = research/polycentric
 	url = git@github.com:glandfried/polycentric.git
+[submodule "software/TrueSkill.c"]
+	path = software/TrueSkill.c
+	url = git@github.com:glandfried/TrueSkill.c.git
+[submodule "expo/caba2020"]
+	path = expo/caba2020
+	url = git@github.com:glandfried/caba2020.git
