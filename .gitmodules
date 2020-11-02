@@ -250,3 +250,15 @@
 [submodule "software/cross-cultural-bot"]
 	path = software/cross-cultural-bot
 	url = git@github.com:glandfried/cross-cultural-bot.git
+[submodule "post/domestic-politics"]
+	path = post/domestic-politics
+	url = git@github.com:glandfried/domestic-politics.git
+[submodule "software/trueskill_through_time"]
+	path = software/trueskill_through_time
+	url = git@github.com:glandfried/trueskill_through_time.git
+[submodule "fork/biomass_distribution"]
+	path = fork/biomass_distribution
+	url = git@github.com:glandfried/biomass_distribution.git
+[submodule "research/polycentric"]
+	path = research/polycentric
+	url = git@github.com:glandfried/polycentric.git
