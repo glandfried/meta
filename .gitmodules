@@ -4,9 +4,6 @@
 [submodule "aux/biblio"]
 	path = aux/biblio
 	url = git@github.com:glandfried/biblio.git
-[submodule "membership/licar/licar"]
-	path = membership/licar/licar
-	url = git@gitlab.licar.exp.dc.uba.ar:licar/licar.git
 [submodule "git/gitaction"]
 	path = aux/git
 	url = git@github.com:glandfried/gitaction.git
@@ -268,3 +265,12 @@
 [submodule "expo/caba2020"]
 	path = expo/caba2020
 	url = git@github.com:glandfried/caba2020.git
+[submodule "bureaucracy/contest"]
+	path = bureaucracy/contest
+	url = git@github.com:glandfried/contest.git
+[submodule "research/genero"]
+	path = research/genero
+	url = git@github.com:glandfried/genero.git
+[submodule "membership/bayes/estadistica_repensada"]
+	path = membership/bayes/estadistica_repensada
+	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/estadistica_repensada.git
