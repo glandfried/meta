@@ -274,3 +274,9 @@
 [submodule "membership/bayes/estadistica_repensada"]
 	path = membership/bayes/estadistica_repensada
 	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/estadistica_repensada.git
+[submodule "membership/licar/licar"]
+	path = membership/licar/licar
+	url = git@gitlab.licar.exp.dc.uba.ar:licar/licar.git
+[submodule "visual/videos"]
+	path = visual/videos
+	url = git@github.com:glandfried/videos.git
