@@ -280,3 +280,9 @@
 [submodule "visual/videos"]
 	path = visual/videos
 	url = git@github.com:glandfried/videos.git
+[submodule "teach/tutor/pasantiaCarreira"]
+	path = teach/tutor/pasantiaCarreira
+	url = git@gitlab.licar.exp.dc.uba.ar:gaming/pasantiaCarreira.git
+[submodule "teach/tutor/pasantiaAmigo"]
+	path = teach/tutor/pasantiaAmigo
+	url = git@gitlab.licar.exp.dc.uba.ar:gaming/pasantiaAmigo.git
