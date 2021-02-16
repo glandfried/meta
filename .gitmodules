@@ -286,3 +286,6 @@
 [submodule "teach/tutor/pasantiaAmigo"]
 	path = teach/tutor/pasantiaAmigo
 	url = git@gitlab.licar.exp.dc.uba.ar:gaming/pasantiaAmigo.git
+[submodule "membership/bayes/curso"]
+	path = membership/bayes/curso
+	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/curso.git
