@@ -289,3 +289,9 @@
 [submodule "membership/bayes/curso"]
 	path = membership/bayes/curso
 	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/curso.git
+[submodule "fork/tennis_atp"]
+	path = fork/tennis_atp
+	url = git@github.com:glandfried/tennis_atp.git
+[submodule "research/thesis"]
+	path = research/thesis
+	url = git@github.com:glandfried/thesis.git
