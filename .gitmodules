@@ -31,9 +31,6 @@
 [submodule "expo/tacc2019"]
 	path = expo/tacc2019
 	url = git@github.com:glandfried/tacc2019.git
-[submodule "software/TrueSkill.jl"]
-	path = software/TrueSkill.jl
-	url = git@github.com:glandfried/TrueSkill.jl.git
 [submodule "learn/julia-performance"]
 	path = learn/workshop/julia-performance
 	url = git@github.com:glandfried/julia-performance.git
@@ -301,3 +298,6 @@
 [submodule "research/TrueSkillThroughTime"]
 	path = research/TrueSkillThroughTime
 	url = git@github.com:glandfried/TrueSkillThroughTime.git
+[submodule "software/TrueSkillThroughTime.jl"]
+	path = software/TrueSkillThroughTime.jl
+	url = git@github.com:glandfried/TrueSkillThroughTime.jl.git
