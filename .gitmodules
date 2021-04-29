@@ -226,9 +226,6 @@
 [submodule "expo/liaa2019"]
 	path = expo/liaa2019
 	url = git@github.com:glandfried/liaa2019.git
-[submodule "software/TrueSkill.R"]
-	path = software/TrueSkill.R
-	url = git@github.com:glandfried/TrueSkill.R.git
 [submodule "bureaucracy/agenda"]
 	path = bureaucracy/agenda
 	url = git@github.com:glandfried/agenda.git
@@ -244,18 +241,12 @@
 [submodule "post/domestic-politics"]
 	path = post/domestic-politics
 	url = git@github.com:glandfried/domestic-politics.git
-[submodule "software/trueskill_through_time"]
-	path = software/trueskill_through_time
-	url = git@github.com:glandfried/trueskill_through_time.git
 [submodule "fork/biomass_distribution"]
 	path = fork/biomass_distribution
 	url = git@github.com:glandfried/biomass_distribution.git
 [submodule "research/polycentric"]
 	path = research/polycentric
 	url = git@github.com:glandfried/polycentric.git
-[submodule "software/TrueSkill.c"]
-	path = software/TrueSkill.c
-	url = git@github.com:glandfried/TrueSkill.c.git
 [submodule "expo/caba2020"]
 	path = expo/caba2020
 	url = git@github.com:glandfried/caba2020.git
@@ -301,3 +292,6 @@
 [submodule "software/TrueSkillThroughTime.py"]
 	path = software/TrueSkillThroughTime.py
 	url = git@github.com:glandfried/TrueSkillThroughTime.py.git
+[submodule "software/TrueSkillThroughTime.R"]
+	path = software/TrueSkillThroughTime.R
+	url = git@github.com:glandfried/TrueSkillThroughTime.R.git
