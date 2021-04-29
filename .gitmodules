@@ -10,9 +10,6 @@
 [submodule "teach/course/taller-algebra1"]
 	path = teach/course/taller-algebra1
 	url = git@git.exactas.uba.ar:materias/taller-algebra1.git
-[submodule "software/trueskill.py"]
-	path = software/trueskill.py
-	url = git@github.com:glandfried/trueskill.py.git
 [submodule "research/cultural-centrality"]
 	path = research/cultural-centrality
 	url = git@github.com:glandfried/cultural-centrality.git
@@ -301,3 +298,6 @@
 [submodule "software/TrueSkillThroughTime.jl"]
 	path = software/TrueSkillThroughTime.jl
 	url = git@github.com:glandfried/TrueSkillThroughTime.jl.git
+[submodule "software/TrueSkillThroughTime.py"]
+	path = software/TrueSkillThroughTime.py
+	url = git@github.com:glandfried/TrueSkillThroughTime.py.git
