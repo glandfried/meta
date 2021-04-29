@@ -295,3 +295,9 @@
 [submodule "research/thesis"]
 	path = research/thesis
 	url = git@github.com:glandfried/thesis.git
+[submodule "dataset/mapaEtnografico"]
+	path = dataset/mapaEtnografico
+	url = git@github.com:glandfried/mapaEtnografico.git
+[submodule "research/TrueSkillThroughTime"]
+	path = research/TrueSkillThroughTime
+	url = git@github.com:glandfried/TrueSkillThroughTime.git
