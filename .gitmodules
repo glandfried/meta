@@ -124,9 +124,6 @@
 [submodule "teach/tutor/gustavocairo"]
 	path = teach/tutor/gustavocairo
 	url = git@gitlab.licar.exp.dc.uba.ar:gaming/go.git
-[submodule "membership/licar/gaming/handicap"]
-	path = research/handicap
-	url = git@gitlab.licar.exp.dc.uba.ar:gaming/handicap.git
 [submodule "software/bayesian-linear-regression"]
 	path = software/bayesian-linear-regression
 	url = git@github.com:glandfried/bayesian-linear-regression.git
