@@ -295,3 +295,6 @@
 [submodule "research/handicap"]
 	path = research/handicap
 	url = git@gitlab.licar.exp.dc.uba.ar:gaming/handicap.git
+[submodule "research/epistemic"]
+	path = research/epistemic
+	url = git@github.com:glandfried/epistemic.git
