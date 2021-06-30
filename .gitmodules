@@ -298,3 +298,12 @@
 [submodule "research/epistemic"]
 	path = research/epistemic
 	url = git@github.com:glandfried/epistemic.git
+[submodule "research/faithfulness"]
+	path = research/faithfulness
+	url = git@github.com:glandfried/faithfulness.git
+[submodule "research/methodologic"]
+	path = research/methodologic
+	url = git@github.com:glandfried/methodologic.git
+[submodule "dataset/go/KGS"]
+	path = dataset/go/KGS
+	url = git@github.com:glandfried/KGS.git
