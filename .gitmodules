@@ -307,3 +307,9 @@
 [submodule "dataset/go/KGS"]
 	path = dataset/go/KGS
 	url = git@github.com:glandfried/KGS.git
+[submodule "research/transitions"]
+	path = research/transitions
+	url = git@github.com:glandfried/transitions.git
+[submodule "membership/bayes/estatuto"]
+	path = membership/bayes/estatuto
+	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/estatuto.git
