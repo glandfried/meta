@@ -313,3 +313,6 @@
 [submodule "membership/bayes/estatuto"]
 	path = membership/bayes/estatuto
 	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/estatuto.git
+[submodule "post/honestBeliefs"]
+	path = post/honestBeliefs
+	url = https://github.com/glandfried/honestBeliefs.git
