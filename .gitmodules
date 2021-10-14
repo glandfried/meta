@@ -316,3 +316,6 @@
 [submodule "post/honestBeliefs"]
 	path = post/honestBeliefs
 	url = https://github.com/glandfried/honestBeliefs.git
+[submodule "post/empiricalKnowledge"]
+	path = post/empiricalKnowledge
+	url = git@github.com:glandfried/empiricalKnowledge.git
