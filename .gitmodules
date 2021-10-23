@@ -319,3 +319,9 @@
 [submodule "post/empiricalKnowledge"]
 	path = post/empiricalKnowledge
 	url = git@github.com:glandfried/empiricalKnowledge.git
+[submodule "research/epistolar"]
+	path = research/epistolar
+	url = git@github.com:glandfried/epistolar.git
+[submodule "fork/kickscore-kdd19"]
+	path = fork/kickscore-kdd19
+	url = git@github.com:glandfried/kickscore-kdd19.git
