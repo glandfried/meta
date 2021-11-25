@@ -1,5 +1,6 @@
 *
 !*/
+*.Rcheck/
 
 ########################
 # Archivos que NO ignora
