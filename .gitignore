@@ -1,6 +1,7 @@
 *
 !*/
 *.Rcheck/
+**/__pycache__/
 
 ########################
 # Archivos que NO ignora
