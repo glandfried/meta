@@ -328,6 +328,3 @@
 [submodule "expo/iast2021"]
 	path = expo/iast2021
 	url = git@github.com:glandfried/iast2021.git
-[submodule "research/commonGoods"]
-	path = research/commonGoods
-	url = git@github.com:glandfried/commonGoods.git
