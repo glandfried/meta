@@ -328,3 +328,7 @@
 [submodule "expo/iast2021"]
 	path = expo/iast2021
 	url = git@github.com:glandfried/iast2021.git
+[submodule "web/ttt/TrueSkillThroughTime.jl"]
+	path = web/ttt/TrueSkillThroughTime.jl
+	url = git@github.com:glandfried/TrueSkillThroughTime.jl.git
+	branch = gh-pages
