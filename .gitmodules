@@ -332,3 +332,6 @@
 	path = web/ttt/TrueSkillThroughTime.jl
 	url = git@github.com:glandfried/TrueSkillThroughTime.jl.git
 	branch = gh-pages
+[submodule "expo/icc2022"]
+	path = expo/icc2022
+	url = git@github.com:glandfried/icc2022.git
