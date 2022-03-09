@@ -39,7 +39,7 @@
 	url = git@gitlab.com:antropocaos/patricioromanik.git
 [submodule "teach/thesis/agustinFernandez"]
 	path = teach/tutor/agustinfernandez/tesis
-	url = git@gitlab.com:antropocaos/agustinFernandez.git
+	url = git@github.com:agustinfernandez/Tesis-Agustin
 [submodule "learn/esrl-2019"]
 	path = learn/workshop/esrl-2019
 	url = https://github.com/glandfried/resources-2019
