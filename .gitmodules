@@ -338,3 +338,6 @@
 [submodule "software/quipu"]
 	path = software/quipu
 	url = git@github.com:glandfried/quipu.git
+[submodule "expo/liaa2022"]
+	path = expo/liaa2022
+	url = git@github.com:glandfried/liaa2022.git
