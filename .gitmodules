@@ -341,3 +341,6 @@
 [submodule "expo/liaa2022"]
 	path = expo/liaa2022
 	url = git@github.com:glandfried/liaa2022.git
+[submodule "software/matchbox.jl"]
+	path = software/matchbox.jl
+	url = git@github.com:glandfried/matchbox.jl.git
