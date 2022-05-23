@@ -344,3 +344,6 @@
 [submodule "software/matchbox.jl"]
 	path = software/matchbox.jl
 	url = git@github.com:glandfried/matchbox.jl.git
+[submodule "research/costFunction"]
+	path = research/costFunction
+	url = git@github.com:glandfried/costFunction.git
