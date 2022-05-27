@@ -347,3 +347,6 @@
 [submodule "research/costFunction"]
 	path = research/costFunction
 	url = git@github.com:glandfried/costFunction.git
+[submodule "membership/bayes/congreso"]
+	path = membership/bayes/congreso
+	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/congreso.git
