@@ -350,3 +350,6 @@
 [submodule "membership/bayes/congreso"]
 	path = membership/bayes/congreso
 	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/congreso.git
+[submodule "software/matchbox.py"]
+	path = software/matchbox.py
+	url = git@github.com:makobot-sh/matchbox.git
