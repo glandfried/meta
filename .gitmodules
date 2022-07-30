@@ -353,3 +353,6 @@
 [submodule "software/matchbox.py"]
 	path = software/matchbox.py
 	url = git@github.com:makobot-sh/matchbox.git
+[submodule "expo/cultconf2022"]
+	path = expo/cultconf2022
+	url = git@github.com:glandfried/cultconf2022.git
