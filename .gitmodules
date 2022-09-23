@@ -373,4 +373,4 @@
 	url = git@github.com:ComunidadBayesianaPlurinacional/ComunidadBayesianaPlurinacional.github.io.git
 [submodule "web/labo"]
 	path = web/labo
-	url = git@github.com:InferenciaBayesiana/InferenciaBayesiana.git
+	url = git@github.com:InferenciaBayesiana/InferenciaBayesiana.github.io.git
