@@ -368,9 +368,12 @@
 [submodule "web/verdades"]
 	path = web/verdades
 	url = git@github.com:VerdadesEmpiricas/VerdadesEmpiricas.github.io.git
-[submodule "web/comunidad"]
-	path = web/comunidad
-	url = git@github.com:ComunidadBayesianaPlurinacional/ComunidadBayesianaPlurinacional.github.io.git
 [submodule "web/rayku"]
 	path = web/rayku
 	url = git@github.com:PaqtaRayku/PaqtaRayku.github.io.git
+[submodule "web/metodos"]
+	path = web/metodos
+	url = git@github.com:MetodosBayesianos/MetodosBayesianos.github.io.git
+[submodule "web/plurinacional"]
+	path = web/plurinacional
+	url = git@github.com:BayesPlurinacional/BayesPlurinacional.github.io.git
