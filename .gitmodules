@@ -319,9 +319,6 @@
 [submodule "post/empiricalKnowledge"]
 	path = post/empiricalKnowledge
 	url = git@github.com:glandfried/empiricalKnowledge.git
-[submodule "research/epistolar"]
-	path = research/epistolar
-	url = git@github.com:glandfried/epistolar.git
 [submodule "fork/kickscore-kdd19"]
 	path = fork/kickscore-kdd19
 	url = git@github.com:glandfried/kickscore-kdd19.git
@@ -377,3 +374,15 @@
 [submodule "web/plurinacional"]
 	path = web/plurinacional
 	url = git@github.com:BayesPlurinacional/BayesPlurinacional.github.io.git
+[submodule "membership/metodos/admin"]
+	path = membership/metodos/admin
+	url = git@github.com:MetodosBayesianos/admin.git
+[submodule "fork/mbmlbook"]
+	path = fork/mbmlbook
+	url = git@github.com:glandfried/mbmlbook.git
+[submodule "fork/infer"]
+	path = fork/infer
+	url = git@github.com:glandfried/infer.git
+[submodule "software/matchbox.net"]
+	path = software/matchbox.net
+	url = git@github.com:glandfried/matchbox.net.git
