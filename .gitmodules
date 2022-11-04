@@ -386,3 +386,6 @@
 [submodule "software/matchbox.net"]
 	path = software/matchbox.net
 	url = git@github.com:glandfried/matchbox.net.git
+[submodule "learn/topic/forensicPlayground"]
+	path = learn/topic/forensicPlayground
+	url = git@github.com:glandfried/forensicPlayground.git
