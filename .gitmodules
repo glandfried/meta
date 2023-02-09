@@ -389,3 +389,15 @@
 [submodule "learn/topic/forensicPlayground"]
 	path = learn/topic/forensicPlayground
 	url = git@github.com:glandfried/forensicPlayground.git
+[submodule "fork/inescaridi/PriorID"]
+	path = fork/inescaridi/PriorID
+	url = git@github.com:glandfried/PriorID.git
+[submodule "fork/grupo-de-modelado-probabilista/Modelado_Bayesiano"]
+	path = fork/grupo-de-modelado-probabilista/Modelado_Bayesiano
+	url = git@github.com:glandfried/Modelado_Bayesiano.git
+[submodule "software/BLCA"]
+	path = software/BLCA
+	url = git@github.com:glandfried/BLCA.git
+[submodule "fork/grupo-de-modelado-probabilista/BAP"]
+	path = fork/grupo-de-modelado-probabilista/BAP
+	url = git@github.com:glandfried/BAP.git
