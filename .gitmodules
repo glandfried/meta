@@ -401,3 +401,15 @@
 [submodule "fork/grupo-de-modelado-probabilista/BAP"]
 	path = fork/grupo-de-modelado-probabilista/BAP
 	url = git@github.com:glandfried/BAP.git
+[submodule "membership/bayes/seminario"]
+	path = membership/bayes/seminario
+	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/seminario.git
+[submodule "membership/modelado/propio"]
+	path = membership/modelado/propio
+	url = git@github.com:glandfried/modelado_probabilista.git
+[submodule "membership/metodos/hackaton40"]
+	path = membership/metodos/hackaton40
+	url = git@github.com:MetodosBayesianos/hackaton40.git
+[submodule "membership/metodos/static"]
+	path = membership/metodos/static
+	url = git@github.com:MetodosBayesianos/static.git
