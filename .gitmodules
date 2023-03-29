@@ -413,3 +413,9 @@
 [submodule "membership/metodos/static"]
 	path = membership/metodos/static
 	url = git@github.com:MetodosBayesianos/static.git
+[submodule "fork/openai/unofficial/chatgpt-wrapper"]
+	path = fork/openai/unofficial/chatgpt-wrapper
+	url = git@github.com:glandfried/chatgpt-wrapper.git
+[submodule "expo/cbp2023"]
+	path = expo/cbp2023
+	url = git@github.com:glandfried/cbp2023.git
