@@ -419,3 +419,6 @@
 [submodule "expo/cbp2023"]
 	path = expo/cbp2023
 	url = git@github.com:glandfried/cbp2023.git
+[submodule "web/ttt/TrueSkillThroughTime.py"]
+	path = web/ttt/TrueSkillThroughTime.py
+	url = git@github.com:glandfried/TrueSkillThroughTime.py.git
