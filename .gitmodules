@@ -254,7 +254,7 @@
 	path = research/genero
 	url = git@github.com:glandfried/genero.git
 [submodule "membership/bayes/estadistica_repensada"]
-	path = membership/bayes/estadistica_repensada
+	path = membership/sur/estadistica_repensada
 	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/estadistica_repensada.git
 [submodule "membership/licar/licar"]
 	path = membership/licar/licar
@@ -269,7 +269,7 @@
 	path = teach/tutor/pasantiaAmigo
 	url = git@gitlab.licar.exp.dc.uba.ar:gaming/pasantiaAmigo.git
 [submodule "membership/bayes/curso"]
-	path = membership/bayes/curso
+	path = membership/sur/curso
 	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/curso.git
 [submodule "fork/tennis_atp"]
 	path = fork/tennis_atp
@@ -311,7 +311,7 @@
 	path = research/transitions
 	url = git@github.com:glandfried/transitions.git
 [submodule "membership/bayes/estatuto"]
-	path = membership/bayes/estatuto
+	path = membership/sur/estatuto
 	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/estatuto.git
 [submodule "post/honestBeliefs"]
 	path = post/honestBeliefs
@@ -345,7 +345,7 @@
 	path = research/costFunction
 	url = git@github.com:glandfried/costFunction.git
 [submodule "membership/bayes/congreso"]
-	path = membership/bayes/congreso
+	path = membership/sur/congreso
 	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/congreso.git
 [submodule "software/matchbox.py"]
 	path = software/matchbox.py
@@ -402,7 +402,7 @@
 	path = fork/grupo-de-modelado-probabilista/BAP
 	url = git@github.com:glandfried/BAP.git
 [submodule "membership/bayes/seminario"]
-	path = membership/bayes/seminario
+	path = membership/sur/seminario
 	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/seminario.git
 [submodule "membership/modelado/propio"]
 	path = membership/modelado/propio
@@ -422,3 +422,6 @@
 [submodule "web/ttt/TrueSkillThroughTime.py"]
 	path = web/ttt/TrueSkillThroughTime.py
 	url = git@github.com:glandfried/TrueSkillThroughTime.py.git
+[submodule "membership/bayes-plurinacional/admin"]
+	path = membership/plurinacional/admin
+	url = git@github.com:BayesPlurinacional/admin.git
