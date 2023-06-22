@@ -425,3 +425,6 @@
 [submodule "membership/bayes-plurinacional/admin"]
 	path = membership/plurinacional/admin
 	url = git@github.com:BayesPlurinacional/admin.git
+[submodule "teach/bayes/breves/tallerBP-2023"]
+	path = teach/bayes/breves/tallerBP-2023
+	url = git@github.com:BayesPlurinacional/tallerBP-2023.git
