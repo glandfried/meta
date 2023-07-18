@@ -428,3 +428,6 @@
 [submodule "teach/bayes/breves/tallerBP-2023"]
 	path = teach/bayes/breves/tallerBP-2023
 	url = git@github.com:BayesPlurinacional/tallerBP-2023.git
+[submodule "teach/course/algoritmos"]
+	path = teach/course/algoritmos
+	url = git@git.exactas.uba.ar:materias/algoritmos.git
