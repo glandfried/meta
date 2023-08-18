@@ -20,7 +20,7 @@
 #	path = teach/course/exactasPrograma
 #	url = git@git.exactas.uba.ar:materias/exactasPrograma.git
 [submodule "teach/course/algoritmos1"]
-	path = teach/course/algoritmos1
+	path = teach/course/AED/algoritmos1/
 	url = git@git.exactas.uba.ar:materias/algo1.git
 [submodule "web/licar"]
 	path = web/licar
@@ -429,5 +429,5 @@
 	path = teach/bayes/breves/tallerBP-2023
 	url = git@github.com:BayesPlurinacional/tallerBP-2023.git
 [submodule "teach/course/algoritmos"]
-	path = teach/course/algoritmos
+	path = teach/course/AED/algoritmos
 	url = git@git.exactas.uba.ar:materias/algoritmos.git
