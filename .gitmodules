@@ -431,3 +431,6 @@
 [submodule "teach/course/algoritmos"]
 	path = teach/course/AED/algoritmos
 	url = git@git.exactas.uba.ar:materias/algoritmos.git
+[submodule "expo/causal2023"]
+	path = expo/causal2023
+	url = git@github.com:glandfried/causal2023.git
