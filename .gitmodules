@@ -434,3 +434,6 @@
 [submodule "expo/causal2023"]
 	path = expo/causal2023
 	url = git@github.com:glandfried/causal2023.git
+[submodule "research/chagas"]
+	path = research/chagas
+	url = git@github.com:glandfried/chagas.git
