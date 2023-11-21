@@ -443,3 +443,6 @@
 [submodule "fork/ku-awdc/runjags"]
 	path = fork/ku-awdc/runjags
 	url = git@github.com:glandfried/runjags.git
+[submodule "fork/simpleSVGD"]
+	path = fork/SVGD/simpleSVGD/
+	url = git@github.com:glandfried/simpleSVGD.git
