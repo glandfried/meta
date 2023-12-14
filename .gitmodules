@@ -446,3 +446,6 @@
 [submodule "fork/simpleSVGD"]
 	path = fork/SVGD/simpleSVGD/
 	url = git@github.com:glandfried/simpleSVGD.git
+[submodule "software/CBCC"]
+	path = software/CBCC
+	url = git@github.com:glandfried/CBCC.git
