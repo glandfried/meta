@@ -449,3 +449,6 @@
 [submodule "software/CBCC"]
 	path = software/CBCC
 	url = git@github.com:glandfried/CBCC.git
+[submodule "bureaucracy/investigacion/historia/noTesis"]
+	path = bureaucracy/investigacion/historia/noTesis
+	url = git@github.com:glandfried/tesis.git
