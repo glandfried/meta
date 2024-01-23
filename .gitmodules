@@ -452,3 +452,6 @@
 [submodule "bureaucracy/investigacion/historia/noTesis"]
 	path = bureaucracy/investigacion/historia/noTesis
 	url = git@github.com:glandfried/tesis.git
+[submodule "membership/suyus/admin"]
+	path = membership/suyus/admin
+	url = git@github.com:PachaSuyus/admin.git
