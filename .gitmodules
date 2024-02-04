@@ -11,14 +11,8 @@
 	path = teach/course/taller-algebra1
 	url = git@git.exactas.uba.ar:materias/taller-algebra1.git
 [submodule "research/cultural-centrality"]
-	path = research/cultural-centrality
+	path = explore/cultural-centrality
 	url = git@github.com:glandfried/cultural-centrality.git
-[submodule "research/bayesianIRT"]
-	path = research/bayesianIRT
-	url = git@github.com:glandfried/bayesianIRT.git
-#[submodule "teach/course/exactasPrograma"]
-#	path = teach/course/exactasPrograma
-#	url = git@git.exactas.uba.ar:materias/exactasPrograma.git
 [submodule "teach/course/algoritmos1"]
 	path = teach/course/AED/algoritmos1/
 	url = git@git.exactas.uba.ar:materias/algo1.git
@@ -44,13 +38,13 @@
 	path = learn/workshop/esrl-2019
 	url = https://github.com/glandfried/resources-2019
 [submodule "membership/caos/antropocaos"]
-	path = membership/caos/antropocaos
+	path = admin/caos/antropocaos
 	url = git@gitlab.com:antropocaos/antropocaos.git
 [submodule "membership/argonautas"]
 	path = membership/caos/argonautas/
 	url = git@gitlab.com:argonautasdelcaos/argonautasdelcaos.git
 [submodule "membership/patria/mueve-bot"]
-	path = membership/patria/mueve-bot
+	path = admin/patria/mueve-bot
 	url = git@gitlab.e-va.red:haciendopatria/convencer-bot.git
 [submodule "learn/machineLearning/AA_TP1"]
 	path = learn/course/machineLearning/tp1
@@ -59,13 +53,13 @@
 	path = learn/course/machineLearning/tp2
 	url = https://github.com/spinto88/ML_TP2.git
 [submodule "bureaucracy/documents"]
-	path = bureaucracy/documents
+	path = bureau/documents
 	url = git@gitlab.com:glandfried/documents.git
 [submodule "software/alerta-dengue-bot"]
 	path = software/alerta-dengue-bot
 	url = git@github.com:glandfried/alerta-dengue-bot.git 
 [submodule "membership/caos/argonautas"]
-	path = membership/caos/argonautas
+	path = admin/caos/argonautas
 	url = git@gitlab.com:argonautasdelcaos/argonautasdelcaos.git
 [submodule "aux/linux"]
 	path = aux/linux
@@ -74,7 +68,7 @@
 	path = fork/online-go.com
 	url = git@github.com:glandfried/online-go.com.git
 [submodule "research/synergy"]
-	path = research/synergy
+	path = explore/synergy
 	url = git@github.com:glandfried/synergy.git
 [submodule "teach/bayes/bayesian-inference"]
 	path = teach/bayes/bayesian-inference
@@ -86,13 +80,13 @@
 	path = dataset/go/moves-ogs-dataset/
 	url = git@github.com:glandfried/moves-ogs-dataset.git
 [submodule "dataset/output-ogs-dataset"]
-	path = dataset/go/output-ogs-dataset
+	path = data/go/output-ogs-dataset
 	url = git@github.com:glandfried/output-ogs-dataset.git
 [submodule "learn/straw/ergodicity"]
 	path = learn/topic/ergodicity
 	url = git@github.com:glandfried/ergodicity.git
 [submodule "dataset/go/moves-ogs-dataset"]
-	path = dataset/go/moves-ogs-dataset
+	path = data/go/moves-ogs-dataset
 	url = git@github.com:glandfried/moves-ogs-dataset.git
 [submodule "aux/license"]
 	path = aux/license
@@ -134,16 +128,16 @@
 	path = learn/topic/prospect-theory
 	url = git@github.com:glandfried/prospect-theory.git
 [submodule "membership/licar/gaming/gaming"]
-	path = membership/licar/gaming/gaming
+	path = admin/licar/gaming/gaming
 	url = git@gitlab.licar.exp.dc.uba.ar:gaming/gaming.git
 [submodule "learn/topic/inequality"]
 	path = learn/topic/inequality
 	url = git@github.com:glandfried/inequality.git
 [submodule "membership/patria/comunidades/alerta-dengue-bot"]
-	path = membership/patria/comunidades/alerta-dengue-bot
+	path = admin/patria/comunidades/alerta-dengue-bot
 	url = git@gitlab.e-va.red:met-comunitarias/alerta-dengue-bot.git
 [submodule "membership/patria/comunidades/aedes-aegypti"]
-	path = membership/patria/comunidades/aedes-aegypti
+	path = admin/patria/comunidades/aedes-aegypti
 	url = git@github.com:glandfried/aedes-aegypti.git
 [submodule "expo/caas2020"]
 	path = expo/caas2020
@@ -157,9 +151,6 @@
 [submodule "fork/ChessAnalysis"]
 	path = fork/ChessAnalysis
 	url = git@github.com:lucasmaystre/ChessAnalysis.git
-[submodule "research/true-irt"]
-	path = research/true-irt
-	url = git@gitlab.licar.exp.dc.uba.ar:gaming/true-irt.git
 [submodule "software/hospitales-bot"]
 	path = software/hospitales-bot
 	url = git@gitlab.com:glandfried/hospitales-bot.git
@@ -167,7 +158,7 @@
 	path = software/non-ergodic
 	url = git@github.com:glandfried/non-ergodic.git
 [submodule "membership/licar/gaming/trueskill"]
-	path = membership/licar/gaming/trueskill
+	path = admin/licar/gaming/trueskill
 	url = git@gitlab.licar.exp.dc.uba.ar:gaming/trueskill.git
 [submodule "fork/covid19model"]
 	path = fork/covid19model
@@ -182,20 +173,17 @@
 	path = learn/topic/covid
 	url = git@github.com:gefero/unsam_covid_espacial.git
 [submodule "dataset/go/aago"]
-	path = dataset/go/aago
+	path = data/go/aago
 	url = git@github.com:glandfried/aago.git
 [submodule "bureaucracy/applications/cic"]
-	path = bureaucracy/cic
+	path = bureau/cic
 	url = git@github.com:glandfried/cic.git
 [submodule "dataset/teg"]
-	path = dataset/teg
+	path = data/teg
 	url = git@github.com:glandfried/teg.git
 [submodule "dataset/go/centrality-ogs-dataset"]
-	path = dataset/go/centrality-ogs-dataset
+	path = data/go/centrality-ogs-dataset
 	url = git@github.com:glandfried/centrality-ogs-dataset.git
-[submodule "research/evidence"]
-	path = research/evidence
-	url = git@github.com:glandfried/evidence.git
 [submodule "software/variational-logisitic-regression"]
 	path = software/variational-logisitic-regression
 	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/variational-logisitic-regression.git
@@ -206,7 +194,7 @@
 	path = fork/ergodicity-breaking
 	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/ergodicity-breaking-choice-experiment.git
 [submodule "bureaucracy/application"]
-	path = bureaucracy/application
+	path = bureau/application
 	url = git@github.com:glandfried/application.git
 [submodule "learn/topic/ergodicity-breaking-replication"]
 	path = learn/topic/ergodicity-breaking-replication
@@ -224,7 +212,7 @@
 	path = expo/liaa2019
 	url = git@github.com:glandfried/liaa2019.git
 [submodule "bureaucracy/agenda"]
-	path = bureaucracy/agenda
+	path = bureau/agenda
 	url = git@github.com:glandfried/agenda.git
 [submodule "post/HBEC-vacancy"]
 	path = post/HBEC-vacancy
@@ -242,22 +230,22 @@
 	path = fork/biomass_distribution
 	url = git@github.com:glandfried/biomass_distribution.git
 [submodule "research/polycentric"]
-	path = research/polycentric
+	path = explore/polycentric
 	url = git@github.com:glandfried/polycentric.git
 [submodule "expo/caba2020"]
 	path = expo/caba2020
 	url = git@github.com:glandfried/caba2020.git
 [submodule "bureaucracy/contest"]
-	path = bureaucracy/contest
+	path = bureau/contest
 	url = git@github.com:glandfried/contest.git
 [submodule "research/genero"]
-	path = research/genero
+	path = explore/genero
 	url = git@github.com:glandfried/genero.git
 [submodule "membership/bayes/estadistica_repensada"]
-	path = membership/sur/estadistica_repensada
+	path = admin/sur/estadistica_repensada
 	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/estadistica_repensada.git
 [submodule "membership/licar/licar"]
-	path = membership/licar/licar
+	path = admin/licar/licar
 	url = git@gitlab.licar.exp.dc.uba.ar:licar/licar.git
 [submodule "visual/videos"]
 	path = visual/videos
@@ -269,19 +257,19 @@
 	path = teach/tutor/pasantiaAmigo
 	url = git@gitlab.licar.exp.dc.uba.ar:gaming/pasantiaAmigo.git
 [submodule "membership/bayes/curso"]
-	path = membership/sur/curso
+	path = admin/sur/curso
 	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/curso.git
 [submodule "fork/tennis_atp"]
 	path = fork/tennis_atp
 	url = git@github.com:glandfried/tennis_atp.git
 [submodule "research/thesis"]
-	path = research/thesis
+	path = explore/thesis
 	url = git@github.com:glandfried/thesis.git
 [submodule "dataset/mapaEtnografico"]
-	path = dataset/mapaEtnografico
+	path = data/mapaEtnografico
 	url = git@github.com:glandfried/mapaEtnografico.git
 [submodule "research/TrueSkillThroughTime"]
-	path = research/TrueSkillThroughTime
+	path = explore/TrueSkillThroughTime
 	url = git@github.com:glandfried/TrueSkillThroughTime.git
 [submodule "software/TrueSkillThroughTime.jl"]
 	path = software/TrueSkillThroughTime.jl
@@ -293,25 +281,22 @@
 	path = software/TrueSkillThroughTime.R
 	url = git@github.com:glandfried/TrueSkillThroughTime.R.git
 [submodule "research/handicap"]
-	path = research/handicap
+	path = explore/handicap
 	url = git@github.com:glandfried/handicap.git 
 [submodule "research/epistemic"]
-	path = research/epistemic
+	path = explore/epistemic
 	url = git@github.com:glandfried/epistemic.git
 [submodule "research/faithfulness"]
-	path = research/faithfulness
+	path = explore/faithfulness
 	url = git@github.com:glandfried/faithfulness.git
-[submodule "research/methodologic"]
-	path = research/methodologic
-	url = git@github.com:glandfried/methodologic.git
 [submodule "dataset/go/KGS"]
-	path = dataset/go/KGS
+	path = data/go/KGS
 	url = git@github.com:glandfried/KGS.git
 [submodule "research/transitions"]
-	path = research/transitions
+	path = explore/transitions
 	url = git@github.com:glandfried/transitions.git
 [submodule "membership/bayes/estatuto"]
-	path = membership/sur/estatuto
+	path = admin/sur/estatuto
 	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/estatuto.git
 [submodule "post/honestBeliefs"]
 	path = post/honestBeliefs
@@ -342,10 +327,10 @@
 	path = software/matchbox.jl
 	url = git@github.com:glandfried/matchbox.jl.git
 [submodule "research/costFunction"]
-	path = research/costFunction
+	path = explore/costFunction
 	url = git@github.com:glandfried/costFunction.git
 [submodule "membership/bayes/congreso"]
-	path = membership/sur/congreso
+	path = admin/sur/congreso
 	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/congreso.git
 [submodule "software/matchbox.py"]
 	path = software/matchbox.py
@@ -375,7 +360,7 @@
 	path = web/plurinacional
 	url = git@github.com:BayesPlurinacional/BayesPlurinacional.github.io.git
 [submodule "membership/metodos/admin"]
-	path = membership/metodos/admin
+	path = admin/metodos/admin
 	url = git@github.com:MetodosBayesianos/admin.git
 [submodule "fork/mbmlbook"]
 	path = fork/mbmlbook
@@ -402,16 +387,16 @@
 	path = fork/grupo-de-modelado-probabilista/BAP
 	url = git@github.com:glandfried/BAP.git
 [submodule "membership/bayes/seminario"]
-	path = membership/sur/seminario
+	path = admin/sur/seminario
 	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/seminario.git
 [submodule "membership/modelado/propio"]
-	path = membership/modelado/propio
+	path = admin/modelado/propio
 	url = git@github.com:glandfried/modelado_probabilista.git
 [submodule "membership/metodos/hackaton40"]
-	path = membership/metodos/hackaton40
+	path = admin/metodos/hackaton40
 	url = git@github.com:MetodosBayesianos/hackaton40.git
 [submodule "membership/metodos/static"]
-	path = membership/metodos/static
+	path = admin/metodos/static
 	url = git@github.com:MetodosBayesianos/static.git
 [submodule "fork/openai/unofficial/chatgpt-wrapper"]
 	path = fork/openai/unofficial/chatgpt-wrapper
@@ -423,7 +408,7 @@
 	path = web/ttt/TrueSkillThroughTime.py
 	url = git@github.com:glandfried/TrueSkillThroughTime.py.git
 [submodule "membership/bayes-plurinacional/admin"]
-	path = membership/plurinacional/admin
+	path = admin/plurinacional/admin
 	url = git@github.com:BayesPlurinacional/admin.git
 [submodule "teach/bayes/breves/tallerBP-2023"]
 	path = teach/bayes/breves/tallerBP-2023
@@ -435,7 +420,7 @@
 	path = expo/causal2023
 	url = git@github.com:glandfried/causal2023.git
 [submodule "research/chagas"]
-	path = research/chagas
+	path = explore/chagas
 	url = git@github.com:glandfried/chagas.git
 [submodule "teach/tutor/macarenaPiaggio/matchbox-evidence"]
 	path = teach/tutor/macarenaPiaggio/matchbox-evidence
@@ -450,8 +435,8 @@
 	path = software/CBCC
 	url = git@github.com:glandfried/CBCC.git
 [submodule "bureaucracy/investigacion/historia/noTesis"]
-	path = bureaucracy/investigacion/historia/noTesis
+	path = bureau/investigacion/historia/noTesis
 	url = git@github.com:glandfried/tesis.git
 [submodule "membership/suyus/admin"]
-	path = membership/suyus/admin
+	path = admin/suyus/admin
 	url = git@github.com:PachaSuyus/admin.git

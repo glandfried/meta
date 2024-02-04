@@ -1,14 +1,14 @@
 # Meta repository
 
-This repository aims to organize all my academic work. It contains essentially only "README" files, and submodules.
-
+This is a meta repository, containing only "README" files, and submodules.
 
 ### Empirical knowledge emerges as life does
 
-I am a social anthropologist finishing a PhD in computer science working on Bayesian inference, social learning and cultural evolution.
+I am a social anthropologist finishing a PhD in computer science working on applied Bayesian inference.
 The best thing I discovered through this interdisciplinary approach was the existence of a method that guarantees intersubjective agreements in contexts of uncertainty, its isomorphism with evolutionary theory, and the real advantage that cooperation and coexistence have in both systems.
 
-- - - 
+<!---
+- - -
 
 After finishing my licentiate degree (BSc + MSc) in anthropology, I decided to acquire a solid background in mathematics and computer science with the aim of using them as tools for the social sciences.
 In one of the top scientific institutes of Latin America, I have opened the main line of research in social sciences and Bayesian inference under the supervision of the directors of the Artificial Intelligence Lab (Diego Slezak) and High Performance Computing Lab (Esteban Mocskos).
@@ -46,3 +46,4 @@ Because cultural and scientific knowledge are common resources, we are not force
 Although the incentives of academic institutions transform the scientific activity, which is by nature cooperative, into an individual game, I will continue to bet all my resources on an empirical science based on intersubjective agreements.
 Ultimately, true empirical knowledge is held by plants and the worldviews of indigenous communities capable of believing at the same time in mutually contradictory ideas just as Bayesian inference does.
 
+--->
