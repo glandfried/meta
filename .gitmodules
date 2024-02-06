@@ -440,3 +440,6 @@
 [submodule "membership/suyus/admin"]
 	path = admin/suyus/admin
 	url = git@github.com:PachaSuyus/admin.git
+[submodule "fork/AAGo/RAAGo"]
+	path = fork/AAGo/RAAGo
+	url = git@github.com:glandfried/RAAGo.git
