@@ -11,7 +11,7 @@
 	path = teach/course/taller-algebra1
 	url = git@git.exactas.uba.ar:materias/taller-algebra1.git
 [submodule "research/cultural-centrality"]
-	path = explore/cultural-centrality
+	path = studium/cultural-centrality
 	url = git@github.com:glandfried/cultural-centrality.git
 [submodule "teach/course/algoritmos1"]
 	path = teach/course/AED/algoritmos1/
@@ -68,7 +68,7 @@
 	path = fork/online-go.com
 	url = git@github.com:glandfried/online-go.com.git
 [submodule "research/synergy"]
-	path = explore/synergy
+	path = studium/synergy
 	url = git@github.com:glandfried/synergy.git
 [submodule "teach/bayes/bayesian-inference"]
 	path = teach/bayes/bayesian-inference
@@ -230,7 +230,7 @@
 	path = fork/biomass_distribution
 	url = git@github.com:glandfried/biomass_distribution.git
 [submodule "research/polycentric"]
-	path = explore/polycentric
+	path = studium/polycentric
 	url = git@github.com:glandfried/polycentric.git
 [submodule "expo/caba2020"]
 	path = expo/caba2020
@@ -239,7 +239,7 @@
 	path = bureau/contest
 	url = git@github.com:glandfried/contest.git
 [submodule "research/genero"]
-	path = explore/genero
+	path = studium/genero
 	url = git@github.com:glandfried/genero.git
 [submodule "membership/bayes/estadistica_repensada"]
 	path = admin/sur/estadistica_repensada
@@ -263,13 +263,13 @@
 	path = fork/tennis_atp
 	url = git@github.com:glandfried/tennis_atp.git
 [submodule "research/thesis"]
-	path = explore/thesis
+	path = studium/thesis
 	url = git@github.com:glandfried/thesis.git
 [submodule "dataset/mapaEtnografico"]
 	path = data/mapaEtnografico
 	url = git@github.com:glandfried/mapaEtnografico.git
 [submodule "research/TrueSkillThroughTime"]
-	path = explore/TrueSkillThroughTime
+	path = studium/TrueSkillThroughTime
 	url = git@github.com:glandfried/TrueSkillThroughTime.git
 [submodule "software/TrueSkillThroughTime.jl"]
 	path = software/TrueSkillThroughTime.jl
@@ -281,19 +281,19 @@
 	path = software/TrueSkillThroughTime.R
 	url = git@github.com:glandfried/TrueSkillThroughTime.R.git
 [submodule "research/handicap"]
-	path = explore/handicap
+	path = studium/handicap
 	url = git@github.com:glandfried/handicap.git 
 [submodule "research/epistemic"]
-	path = explore/epistemic
+	path = studium/epistemic
 	url = git@github.com:glandfried/epistemic.git
 [submodule "research/faithfulness"]
-	path = explore/faithfulness
+	path = studium/faithfulness
 	url = git@github.com:glandfried/faithfulness.git
 [submodule "dataset/go/KGS"]
 	path = data/go/KGS
 	url = git@github.com:glandfried/KGS.git
 [submodule "research/transitions"]
-	path = explore/transitions
+	path = studium/transitions
 	url = git@github.com:glandfried/transitions.git
 [submodule "membership/bayes/estatuto"]
 	path = admin/sur/estatuto
@@ -327,7 +327,7 @@
 	path = software/matchbox.jl
 	url = git@github.com:glandfried/matchbox.jl.git
 [submodule "research/costFunction"]
-	path = explore/costFunction
+	path = studium/costFunction
 	url = git@github.com:glandfried/costFunction.git
 [submodule "membership/bayes/congreso"]
 	path = admin/sur/congreso
@@ -420,7 +420,7 @@
 	path = expo/causal2023
 	url = git@github.com:glandfried/causal2023.git
 [submodule "research/chagas"]
-	path = explore/chagas
+	path = studium/chagas
 	url = git@github.com:glandfried/chagas.git
 [submodule "teach/tutor/macarenaPiaggio/matchbox-evidence"]
 	path = teach/tutor/macarenaPiaggio/matchbox-evidence
