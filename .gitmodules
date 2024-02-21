@@ -446,3 +446,6 @@
 [submodule "software/Matchbox.py"]
 	path = software/Matchbox.py
 	url = git@gitlab.licar.exp.dc.uba.ar:mpiaggio/matchbox.py.git
+[submodule "visual/plurinacional"]
+	path = visual/plurinacional
+	url = git@github.com:BayesPlurinacional/static.git
