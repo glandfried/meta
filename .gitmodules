@@ -449,3 +449,6 @@
 [submodule "visual/plurinacional"]
 	path = visual/plurinacional
 	url = git@github.com:BayesPlurinacional/static.git
+[submodule "teach/bayes/materia"]
+	path = teach/bayes/materia
+	url = git@git.exactas.uba.ar:bayes/materia.git
