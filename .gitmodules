@@ -452,9 +452,6 @@
 [submodule "teach/bayes/materia"]
 	path = teach/bayes/materia
 	url = git@git.exactas.uba.ar:bayes/materia.git
-[submodule "studium/LaIntervencion"]
-	path = studium/LaIntervencion
-	url = git@github.com:glandfried/LaIntervencion.git
 [submodule "learn/topic/KANetwork"]
 	path = learn/topic/KANetwork
 	url = https://github.com/glandfried/KANetwork
