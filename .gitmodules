@@ -458,3 +458,9 @@
 [submodule "learn/course/deeplearning-2024-c1"]
 	path = learn/course/deeplearning-2024-c1
 	url = git@github.com:glandfried/deeplearning-2024-c1.git
+[submodule "studium/longhi2024-chagas"]
+	path = studium/longhi2024-chagas
+	url = git@github.com:glandfried/longhi2024-chagas.git
+[submodule "fork/google/neural-tangents"]
+	path = fork/google/neural-tangents
+	url = git@github.com:glandfried/neural-tangents.git
