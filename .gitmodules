@@ -464,3 +464,6 @@
 [submodule "fork/google/neural-tangents"]
 	path = fork/google/neural-tangents
 	url = git@github.com:glandfried/neural-tangents.git
+[submodule "learn/topic/particles/fork"]
+	path = learn/topic/particles/fork
+	url = git@github.com:glandfried/particles.git
