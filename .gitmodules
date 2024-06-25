@@ -470,3 +470,9 @@
 [submodule "studium/dormir-celular"]
 	path = studium/dormir-celular
 	url = git@github.com:glandfried/dormir-celular.git
+[submodule "expo/unsam2024"]
+	path = expo/unsam2024
+	url = git@github.com:glandfried/unsam2024.git
+[submodule "teach/bayes/breves/BP2024"]
+	path = teach/bayes/breves/BP2024
+	url = git@github.com:glandfried/BP2024.git
