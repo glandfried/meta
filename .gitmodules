@@ -476,3 +476,9 @@
 [submodule "teach/bayes/breves/BP2024"]
 	path = teach/bayes/breves/BP2024
 	url = git@github.com:glandfried/BP2024.git
+[submodule "learn/topic/particles/particles-playground"]
+	path = learn/topic/particles/particles-playground
+	url = git@github.com:glandfried/particles-playground.git
+[submodule "fork/rodrigodiaz/bayev"]
+	path = fork/rodrigodiaz/bayev
+	url = git@github.com:glandfried/bayev.git
