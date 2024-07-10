@@ -482,3 +482,6 @@
 [submodule "fork/rodrigodiaz/bayev"]
 	path = fork/rodrigodiaz/bayev
 	url = git@github.com:glandfried/bayev.git
+[submodule "teach/bayes/InferenciaBayesianaCausal1"]
+	path = teach/bayes/InferenciaBayesianaCausal1
+	url = git@github.com:MetodosBayesianos/InferenciaBayesianaCausal1.git
