@@ -491,3 +491,6 @@
 [submodule "fork/pymc/pymc"]
 	path = fork/pymc/pymc
 	url = git@github.com:glandfried/pymc.git
+[submodule "software/TDMARK"]
+	path = software/TDMARK
+	url = git@github.com:glandfried/TDMARK.git
