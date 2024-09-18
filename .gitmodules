@@ -494,3 +494,6 @@
 [submodule "software/TDMARK"]
 	path = software/TDMARK
 	url = git@github.com:glandfried/TDMARK.git
+[submodule "expo/datos2024"]
+	path = expo/datos2024
+	url = git@github.com:glandfried/datos2024.git
