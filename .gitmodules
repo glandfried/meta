@@ -20,7 +20,7 @@
 	path = web/licar
 	url = git@gitlab.licar.exp.dc.uba.ar:licar/webpage.git
 [submodule "expo/tacc2019"]
-	path = expo/tacc2019
+	path = comunica/charla/tacc2019
 	url = git@github.com:glandfried/tacc2019.git
 [submodule "learn/julia-performance"]
 	path = learn/workshop/julia-performance
@@ -95,16 +95,16 @@
 	path = software/tennis
 	url = git@github.com:glandfried/tennis.git
 [submodule "expo/liaa2018"]
-	path = expo/liaa2018
+	path = comunica/charla/liaa2018
 	url = git@github.com:glandfried/liaa2018.git
 [submodule "aux/tex"]
 	path = aux/tex
 	url = git@github.com:glandfried/tex.git
 [submodule "expo/mlss2018"]
-	path = expo/mlss2018
+	path = comunica/charla/mlss2018
 	url = git@github.com:glandfried/mlss2018.git
 [submodule "expo/esrl2019"]
-	path = expo/esrl2019
+	path = comunica/charla/esrl2019
 	url = git@github.com:glandfried/esrl2019.git
 [submodule "learn/topic/haaland2020-generalistsVsSpecialist"]
 	path = learn/topic/haaland2020-generalistsVsSpecialist
@@ -140,7 +140,7 @@
 	path = admin/patria/comunidades/aedes-aegypti
 	url = git@github.com:glandfried/aedes-aegypti.git
 [submodule "expo/caas2020"]
-	path = expo/caas2020
+	path = comunica/charla/caas2020
 	url = git@github.com:glandfried/caas2020.git
 [submodule "learn/topic/probability_weighting"]
 	path = learn/topic/probability_weighting
@@ -164,7 +164,7 @@
 	path = fork/covid19model
 	url = git@github.com:glandfried/covid19model.git
 [submodule "post/non-ergodic-evidence"]
-	path = post/non-ergodic-evidence
+	path = comunica/notas/non-ergodic-evidence
 	url = git@github.com:glandfried/non-ergodic-evidence.git
 [submodule "learn/course/tomaDeDecisiones"]
 	path = learn/course/tomaDeDecisiones
@@ -185,7 +185,7 @@
 	path = software/variational-logisitic-regression
 	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/variational-logisitic-regression.git
 [submodule "expo/liaa2020"]
-	path = expo/liaa2020
+	path = comunica/charla/liaa2020
 	url = git@github.com:glandfried/liaa2020.git
 [submodule "fork/ergodicity-breaking"]
 	path = fork/ergodicity-breaking
@@ -206,19 +206,19 @@
 	path = fork/bayesian-linear-model
 	url = git@github.com:glandfried/bayesian-linear-model.git
 [submodule "expo/liaa2019"]
-	path = expo/liaa2019
+	path = comunica/charla/liaa2019
 	url = git@github.com:glandfried/liaa2019.git
 [submodule "post/HBEC-vacancy"]
-	path = post/HBEC-vacancy
+	path = comunica/notas/HBEC-vacancy
 	url = git@github.com:glandfried/HBEC-vacancy.git
 [submodule "expo/hbec2020"]
-	path = expo/hbec2020
+	path = comunica/charla/hbec2020
 	url = git@github.com:glandfried/hbec2020.git
 [submodule "software/cross-cultural-bot"]
 	path = software/cross-cultural-bot
 	url = git@github.com:glandfried/cross-cultural-bot.git
 [submodule "post/domestic-politics"]
-	path = post/domestic-politics
+	path = comunica/notas/domestic-politics
 	url = git@github.com:glandfried/domestic-politics.git
 [submodule "fork/biomass_distribution"]
 	path = fork/biomass_distribution
@@ -227,7 +227,7 @@
 	path = studium/polycentric
 	url = git@github.com:glandfried/polycentric.git
 [submodule "expo/caba2020"]
-	path = expo/caba2020
+	path = comunica/charla/caba2020
 	url = git@github.com:glandfried/caba2020.git
 [submodule "research/genero"]
 	path = studium/genero
@@ -290,29 +290,29 @@
 	path = admin/sur/estatuto
 	url = git@github.com:BayesDeLasProvinciasUnidasDelSur/estatuto.git
 [submodule "post/honestBeliefs"]
-	path = post/honestBeliefs
+	path = comunica/notas/honestBeliefs
 	url = https://github.com/glandfried/honestBeliefs.git
 [submodule "post/empiricalKnowledge"]
-	path = post/empiricalKnowledge
+	path = comunica/notas/empiricalKnowledge
 	url = git@github.com:glandfried/empiricalKnowledge.git
 [submodule "fork/kickscore-kdd19"]
 	path = fork/kickscore-kdd19
 	url = git@github.com:glandfried/kickscore-kdd19.git
 [submodule "expo/iast2021"]
-	path = expo/iast2021
+	path = comunica/charla/iast2021
 	url = git@github.com:glandfried/iast2021.git
 [submodule "web/ttt/TrueSkillThroughTime.jl"]
 	path = web/ttt/TrueSkillThroughTime.jl
 	url = git@github.com:glandfried/TrueSkillThroughTime.jl.git
 	branch = gh-pages
 [submodule "expo/icc2022"]
-	path = expo/icc2022
+	path = comunica/charla/icc2022
 	url = git@github.com:glandfried/icc2022.git
 [submodule "software/quipu"]
 	path = software/quipu
 	url = git@github.com:glandfried/quipu.git
 [submodule "expo/liaa2022"]
-	path = expo/liaa2022
+	path = comunica/charla/liaa2022
 	url = git@github.com:glandfried/liaa2022.git
 [submodule "software/matchbox.jl"]
 	path = software/matchbox.jl
@@ -327,7 +327,7 @@
 	path = software/matchbox.py
 	url = git@github.com:makobot-sh/matchbox.git
 [submodule "expo/cultconf2022"]
-	path = expo/cultconf2022
+	path = comunica/charla/cultconf2022
 	url = git@github.com:glandfried/cultconf2022.git
 [submodule "web/cbp"]
 	path = web/cbp
@@ -393,7 +393,7 @@
 	path = fork/openai/unofficial/chatgpt-wrapper
 	url = git@github.com:glandfried/chatgpt-wrapper.git
 [submodule "expo/cbp2023"]
-	path = expo/cbp2023
+	path = comunica/charla/cbp2023
 	url = git@github.com:glandfried/cbp2023.git
 [submodule "web/ttt/TrueSkillThroughTime.py"]
 	path = web/ttt/TrueSkillThroughTime.py
@@ -408,7 +408,7 @@
 	path = teach/course/AED/algoritmos
 	url = git@git.exactas.uba.ar:materias/algoritmos.git
 [submodule "expo/causal2023"]
-	path = expo/causal2023
+	path = comunica/charla/causal2023
 	url = git@github.com:glandfried/causal2023.git
 [submodule "research/chagas"]
 	path = studium/chagas
@@ -462,7 +462,7 @@
 	path = studium/dormir-celular
 	url = git@github.com:glandfried/dormir-celular.git
 [submodule "expo/unsam2024"]
-	path = expo/unsam2024
+	path = comunica/charla/unsam2024
 	url = git@github.com:glandfried/unsam2024.git
 [submodule "teach/bayes/breves/BP2024"]
 	path = teach/bayes/breves/BP2024
@@ -486,7 +486,7 @@
 	path = software/TDMARK
 	url = git@github.com:glandfried/TDMARK.git
 [submodule "expo/datos2024"]
-	path = expo/datos2024
+	path = comunica/charla/datos2024
 	url = git@github.com:glandfried/datos2024.git
 [submodule "learn/topic/bayess"]
 	path = learn/topic/bayess
