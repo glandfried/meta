@@ -175,9 +175,6 @@
 [submodule "dataset/go/aago"]
 	path = data/go/aago
 	url = git@github.com:glandfried/aago.git
-[submodule "bureaucracy/applications/cic"]
-	path = bureau/cic
-	url = git@github.com:glandfried/cic.git
 [submodule "dataset/teg"]
 	path = data/teg
 	url = git@github.com:glandfried/teg.git
@@ -211,9 +208,6 @@
 [submodule "expo/liaa2019"]
 	path = expo/liaa2019
 	url = git@github.com:glandfried/liaa2019.git
-[submodule "bureaucracy/agenda"]
-	path = bureau/agenda
-	url = git@github.com:glandfried/agenda.git
 [submodule "post/HBEC-vacancy"]
 	path = post/HBEC-vacancy
 	url = git@github.com:glandfried/HBEC-vacancy.git
@@ -235,9 +229,6 @@
 [submodule "expo/caba2020"]
 	path = expo/caba2020
 	url = git@github.com:glandfried/caba2020.git
-[submodule "bureaucracy/contest"]
-	path = bureau/contest
-	url = git@github.com:glandfried/contest.git
 [submodule "research/genero"]
 	path = studium/genero
 	url = git@github.com:glandfried/genero.git
@@ -497,3 +488,24 @@
 [submodule "expo/datos2024"]
 	path = expo/datos2024
 	url = git@github.com:glandfried/datos2024.git
+[submodule "learn/topic/bayess"]
+	path = learn/topic/bayess
+	url = git@github.com:glandfried/bayess.git
+[submodule "visual/fotos"]
+	path = visual/fotos
+	url = git@github.com:glandfried/fotos.git
+[submodule "learn/topic/reinforcement_learning/spinningup"]
+	path = learn/topic/reinforcement_learning/spinningup
+	url = git@github.com:glandfried/spinningup.git
+[submodule "software/pcs_geostats"]
+	path = software/pcs_geostats
+	url = git@github.com:elchudi/pcs_geostats.git
+[submodule "teach/evalua/tesis/2024_Matias_Sandacz"]
+	path = teach/evalua/tesis/2024_Matias_Sandacz
+	url = git@github.com:glandfried/hexapod-locomotion.git
+[submodule "software/HorseRacing"]
+	path = software/HorseRacing
+	url = git@github.com:MetodosBayesianos/HorseRacing.git
+[submodule "admin/metodos/Organismo"]
+	path = admin/metodos/Organismo
+	url = git@github.com:MetodosBayesianos/Organismo.git
