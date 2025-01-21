@@ -2,10 +2,10 @@
 	path = aux/data_science
 	url = git@github.com:glandfried/biblio.git
 [submodule "aux/biblio"]
-	path = aux/biblio
+	path = auxiliar/biblio
 	url = git@github.com:glandfried/biblio.git
 [submodule "git/gitaction"]
-	path = aux/git
+	path = auxiliar/git
 	url = git@github.com:glandfried/gitaction.git
 [submodule "teach/course/taller-algebra1"]
 	path = teach/course/taller-algebra1
@@ -62,7 +62,7 @@
 	path = admin/caos/argonautas
 	url = git@gitlab.com:argonautasdelcaos/argonautasdelcaos.git
 [submodule "aux/linux"]
-	path = aux/linux
+	path = auxiliar/linux
 	url = git@github.com:glandfried/linux.git
 [submodule "fork/online-go.com"]
 	path = explora/fork/online-go.com
@@ -89,7 +89,7 @@
 	path = data/go/moves-ogs-dataset
 	url = git@github.com:glandfried/moves-ogs-dataset.git
 [submodule "aux/license"]
-	path = aux/license
+	path = auxiliar/license
 	url = git@github.com:glandfried/license.git
 [submodule "software/tennis"]
 	path = software/tennis
@@ -98,7 +98,7 @@
 	path = comunica/charla/liaa2018
 	url = git@github.com:glandfried/liaa2018.git
 [submodule "aux/tex"]
-	path = aux/tex
+	path = auxiliar/tex
 	url = git@github.com:glandfried/tex.git
 [submodule "expo/mlss2018"]
 	path = comunica/charla/mlss2018
@@ -146,7 +146,7 @@
 	path = explora/topic/probability_weighting
 	url = git@github.com:glandfried/probability_weighting.git
 [submodule "aux/preregistrations"]
-	path = aux/preregistrations
+	path = auxiliar/preregistrations
 	url = git@github.com:glandfried/preregistrations.git
 [submodule "fork/ChessAnalysis"]
 	path = fork/ChessAnalysis
