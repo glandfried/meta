@@ -509,3 +509,9 @@
 [submodule "admin/metodos/Organismo"]
 	path = admin/metodos/Organismo
 	url = git@github.com:MetodosBayesianos/Organismo.git
+[submodule "software/matchbox_maca.py"]
+	path = software/matchbox_maca.py
+	url = git@github.com:makobot-sh/matchbox.py.git
+[submodule "admin/metodos/tierra"]
+	path = admin/metodos/tierra
+	url = git@github.com:MetodosBayesianos/Pacha.git
