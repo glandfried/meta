@@ -515,3 +515,6 @@
 [submodule "admin/metodos/tierra"]
 	path = admin/metodos/tierra
 	url = git@github.com:MetodosBayesianos/Pacha.git
+[submodule "admin/metodos/Intersubjetivo"]
+	path = admin/metodos/Intersubjetivo
+	url = git@github.com:MetodosBayesianos/Intersubjetivo.git
