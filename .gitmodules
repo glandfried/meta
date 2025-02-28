@@ -518,3 +518,18 @@
 [submodule "admin/metodos/Intersubjetivo"]
 	path = admin/metodos/Intersubjetivo
 	url = git@github.com:MetodosBayesianos/Intersubjetivo.git
+[submodule "admin/metodos/root"]
+	path = admin/metodos/root
+	url = git@github.com:MetodosBayesianos/root.git
+[submodule "admin/licar/root"]
+	path = admin/licar/root
+	url = git@gitlab.licar.exp.dc.uba.ar:licar/root.git
+[submodule "industria/KOF/Artificial-Intelligence-Office/causal-ai"]
+	path = industria/KOF/Artificial-Intelligence-Office/causal-ai
+	url = git@ssh.dev.azure.com:v3/Artificial-Intelligence-Office/(CAU)%20Causal%20AI/causal-ai
+[submodule "industria/KOF/Artificial-Intelligence-Office/KOF-Pilot"]
+	path = industria/KOF/Artificial-Intelligence-Office/KOF-Pilot
+	url = git@ssh.dev.azure.com:v3/Artificial-Intelligence-Office/(CAU)%20Causal%20AI/KOF-Pilot
+[submodule "industria/Mutt/causal-inference"]
+	path = industria/Mutt/causal-inference
+	url = git@github.mutt:MuttData/causal-inference.git
