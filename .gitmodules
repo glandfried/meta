@@ -533,3 +533,6 @@
 [submodule "industria/Mutt/causal-inference"]
 	path = industria/Mutt/causal-inference
 	url = git@github.mutt:MuttData/causal-inference.git
+[submodule "industria/Metodos/root"]
+	path = industria/Metodos/root
+	url = git@github.com:MetodosBayesianos/root.git
