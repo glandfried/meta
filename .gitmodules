@@ -536,3 +536,9 @@
 [submodule "industria/Metodos/root"]
 	path = industria/Metodos/root
 	url = git@github.com:MetodosBayesianos/root.git
+[submodule "software/asherbender-bayesian-linear-model"]
+	path = software/asherbender-bayesian-linear-model
+	url = git@github.com:glandfried/bayesian-linear-model.git
+[submodule "explora/fork/matheusfacure/python-causality-handbook"]
+	path = explora/fork/matheusfacure/python-causality-handbook
+	url = git@github.com:glandfried/python-causality-handbook.git
