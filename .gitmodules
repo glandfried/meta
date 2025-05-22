@@ -542,3 +542,6 @@
 [submodule "explora/fork/matheusfacure/python-causality-handbook"]
 	path = explora/fork/matheusfacure/python-causality-handbook
 	url = git@github.com:glandfried/python-causality-handbook.git
+[submodule "industria/Mutt/attribution/meli-optimus-enigma"]
+	path = industria/Mutt/attribution/meli-optimus-enigma
+	url = git@github.mutt:MuttData/meli-optimus-enigma.git
