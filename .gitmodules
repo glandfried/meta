@@ -545,3 +545,9 @@
 [submodule "industria/Mutt/attribution/meli-optimus-enigma"]
 	path = industria/Mutt/attribution/meli-optimus-enigma
 	url = git@github.mutt:MuttData/meli-optimus-enigma.git
+[submodule "industria/Mutt/attribution/causalMTA"]
+	path = industria/Mutt/attribution/causalMTA
+	url = git@github.mutt:MuttData/causalMTA.git
+[submodule "industria/Mutt/attribution/ixpandit-attributions"]
+	path = industria/Mutt/attribution/ixpandit-attributions
+	url = git@github.mutt:MuttData/ixpandit-attributions.git
