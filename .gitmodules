@@ -551,3 +551,6 @@
 [submodule "industria/Mutt/attribution/ixpandit-attributions"]
 	path = industria/Mutt/attribution/ixpandit-attributions
 	url = git@github.mutt:MuttData/ixpandit-attributions.git
+[submodule "comunica/charla/mutt2025"]
+	path = comunica/charla/mutt2025
+	url = git@github.com:glandfried/mutt2025.git
