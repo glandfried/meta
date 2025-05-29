@@ -554,3 +554,6 @@
 [submodule "comunica/charla/mutt2025"]
 	path = comunica/charla/mutt2025
 	url = git@github.com:glandfried/mutt2025.git
+[submodule "explora/fork/py-why/EconML"]
+	path = explora/fork/py-why/EconML
+	url = git@github.com:glandfried/EconML.git
