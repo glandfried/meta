@@ -557,3 +557,6 @@
 [submodule "explora/fork/py-why/EconML"]
 	path = explora/fork/py-why/EconML
 	url = git@github.com:glandfried/EconML.git
+[submodule "industria/Mutt/attribution/kavak-mta"]
+	path = industria/Mutt/attribution/kavak-mta
+	url = git@github.mutt:MuttData/kavak-mta.git
