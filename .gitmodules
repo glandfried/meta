@@ -560,3 +560,12 @@
 [submodule "industria/Mutt/attribution/kavak-mta"]
 	path = industria/Mutt/attribution/kavak-mta
 	url = git@github.mutt:MuttData/kavak-mta.git
+[submodule "industria/MuttData"]
+	path = industria/MuttData
+	url = git@github.com:glandfried/MuttData.git
+[submodule "teach/bayes/breves/BP2025"]
+	path = teach/bayes/breves/BP2025
+	url = git@github.com:glandfried/BP2025.git
+[submodule "explora/fork/albcab/transformers-taller"]
+	path = explora/fork/albcab/transformers-taller
+	url = git@github.com:glandfried/transformers-taller.git
