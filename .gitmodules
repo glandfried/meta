@@ -569,3 +569,6 @@
 [submodule "explora/fork/albcab/transformers-taller"]
 	path = explora/fork/albcab/transformers-taller
 	url = git@github.com:glandfried/transformers-taller.git
+[submodule "studium/Ignorability"]
+	path = studium/Ignorability
+	url = git@github.com:MetodosBayesianos/Ignorability.git
