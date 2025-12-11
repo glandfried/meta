@@ -572,3 +572,6 @@
 [submodule "studium/Ignorability"]
 	path = studium/Ignorability
 	url = git@github.com:MetodosBayesianos/Ignorability.git
+[submodule "industria/kavak/data-martech-data-mesh"]
+	path = industria/kavak/data-martech-data-mesh
+	url = git@gitlab.kavak:kavak-it/data-martech-data-mesh.git
