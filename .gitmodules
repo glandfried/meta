@@ -575,3 +575,6 @@
 [submodule "industria/Kavak"]
 	path = industria/Kavak
 	url = git@github.com:glandfried/Kavak.git
+[submodule "web/glandfried"]
+	path = web/glandfried
+	url = git@github.com:glandfried/glandfried.git
